@@ -75,7 +75,8 @@
         "model": "exercises.muscle",
         "fields": {
             "is_front": true,
-            "name": "Obliquus externus abdominis"
+            "name": "Obliquus externus abdominis",
+            "name_en": "Obliques"
         }
     },
     {
@@ -126,7 +127,8 @@
         "model": "exercises.muscle",
         "fields": {
             "is_front": false,
-            "name": "Trapezius"
+            "name": "Trapezius",
+            "name_en": "Traps"
         }
     },
     {

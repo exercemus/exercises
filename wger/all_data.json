@@ -10335,7 +10335,8 @@
     },
     "9": {
       "is_front": false,
-      "name": "Trapezius"
+      "name": "Trapezius",
+      "name_en": "Traps"
     },
     "10": {
       "is_front": true,
@@ -10358,7 +10359,8 @@
     },
     "14": {
       "is_front": true,
-      "name": "Obliquus externus abdominis"
+      "name": "Obliquus externus abdominis",
+      "name_en": "Obliques"
     },
     "15": {
       "is_front": false,

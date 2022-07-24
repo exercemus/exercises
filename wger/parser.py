@@ -30,7 +30,6 @@ def join_to_exercises(parsed_data):
         exercise['license'] = data['license'][exercise['license']]
         exercise['language'] = data['language'][exercise['language']]['short_name']
         exercise['category'] = data['exercisecategory'][exercise['category']]['name']
-        exercise['variation-id'] = exercise['variations']
         exercise['equipment'] = list(map(
             lambda key: data['equipment'][key]['name'],
             exercise['equipment'],
@@ -45,7 +44,13 @@ def join_to_exercises(parsed_data):
                 exercise[list_to_join],
             ))
 
-        fields_to_delete = ['uuid', 'variations', 'status', 'name_original']
+        to_rename = {'variations': 'variation-id', 'muscles': 'primary_muscles',
+                     'muscles_secondary': 'secondary_muscles', }
+        for old, new in to_rename.items():
+            exercise[new] = exercise[old]
+            del exercise[old]
+
+        fields_to_delete = ['uuid', 'status', 'name_original']
         for field in fields_to_delete:
             del exercise[field]
 

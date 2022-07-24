@@ -12,13 +12,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Biceps Curls With Barbell",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Brachialis"
     ],
-    "name": "Biceps Curls With Barbell",
     "variation-id": 16
   },
   {
@@ -34,13 +34,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Biceps Curls With SZ-bar",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Brachialis"
     ],
-    "name": "Biceps Curls With SZ-bar",
     "variation-id": 16
   },
   {
@@ -56,13 +56,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Biceps Curls With Dumbbell",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Brachialis"
     ],
-    "name": "Biceps Curls With Dumbbell",
     "variation-id": 16
   },
   {
@@ -76,14 +76,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Dips",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Chest",
       "Abs"
     ],
-    "name": "Dips",
     "variation-id": 19
   },
   {
@@ -99,11 +99,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Dips Between Two Benches",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Dips Between Two Benches",
+    "secondary_muscles": [],
     "variation-id": 19
   },
   {
@@ -120,11 +120,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "French Press (skullcrusher) SZ-bar",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "French Press (skullcrusher) SZ-bar",
+    "secondary_muscles": [],
     "variation-id": 18
   },
   {
@@ -141,11 +141,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "French Press (skullcrusher) Dumbbells",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "French Press (skullcrusher) Dumbbells",
+    "secondary_muscles": [],
     "variation-id": 18
   },
   {
@@ -161,11 +161,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Hammercurls",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [],
-    "name": "Hammercurls",
+    "secondary_muscles": [],
     "variation-id": 16
   },
   {
@@ -179,11 +179,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Dumbbells on Scott Machine",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [],
-    "name": "Dumbbells on Scott Machine",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -200,14 +200,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Bench Press Narrow Grip",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Chest"
     ],
-    "name": "Bench Press Narrow Grip",
     "variation-id": 18
   },
   {
@@ -221,11 +221,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Triceps Extensions on Cable",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Triceps Extensions on Cable",
+    "secondary_muscles": [],
     "variation-id": 17
   },
   {
@@ -239,11 +239,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Triceps Extensions on Cable With Bar",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Triceps Extensions on Cable With Bar",
+    "secondary_muscles": [],
     "variation-id": 17
   },
   {
@@ -260,13 +260,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Crunches",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Serratus anterior"
     ],
-    "name": "Crunches",
     "variation-id": 10
   },
   {
@@ -280,11 +280,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Crunches With Cable",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Crunches With Cable",
+    "secondary_muscles": [],
     "variation-id": 10
   },
   {
@@ -298,11 +298,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Negative Crunches",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Negative Crunches",
+    "secondary_muscles": [],
     "variation-id": 10
   },
   {
@@ -316,11 +316,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Crunches on Machine",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Crunches on Machine",
+    "secondary_muscles": [],
     "variation-id": 10
   },
   {
@@ -334,11 +334,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Sit-ups",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Sit-ups",
+    "secondary_muscles": [],
     "variation-id": 10
   },
   {
@@ -355,14 +355,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Benchpress Dumbbells",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Triceps"
     ],
-    "name": "Benchpress Dumbbells",
     "variation-id": null
   },
   {
@@ -376,13 +376,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Butterfly",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders"
     ],
-    "name": "Butterfly",
     "variation-id": null
   },
   {
@@ -396,11 +396,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Butterfly Narrow Grip",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Butterfly Narrow Grip",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -416,11 +416,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Decline Bench Press Barbell",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Decline Bench Press Barbell",
+    "secondary_muscles": [],
     "variation-id": 7
   },
   {
@@ -436,11 +436,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Decline Bench Press Dumbbell",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Decline Bench Press Dumbbell",
+    "secondary_muscles": [],
     "variation-id": 7
   },
   {
@@ -454,13 +454,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Standing Calf Raises",
+    "primary_muscles": [
       "Calves"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Soleus"
     ],
-    "name": "Standing Calf Raises",
     "variation-id": 6
   },
   {
@@ -474,13 +474,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Sitting Calf Raises",
+    "primary_muscles": [
       "Soleus"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Calves"
     ],
-    "name": "Sitting Calf Raises",
     "variation-id": 6
   },
   {
@@ -494,13 +494,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Calf Raises on Hackenschmitt Machine",
+    "primary_muscles": [
       "Calves"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Soleus"
     ],
-    "name": "Calf Raises on Hackenschmitt Machine",
     "variation-id": 6
   },
   {
@@ -516,14 +516,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Deadlifts",
+    "primary_muscles": [
       "Lats",
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Deadlifts",
     "variation-id": 3
   },
   {
@@ -537,15 +537,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Rowing, T-bar",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Biceps",
       "Brachialis"
     ],
-    "name": "Rowing, T-bar",
     "variation-id": 1
   },
   {
@@ -561,15 +561,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Pull-ups",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Biceps",
-      "Trapezius"
+      "Traps"
     ],
-    "name": "Pull-ups",
     "variation-id": null
   },
   {
@@ -583,11 +583,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Rowing, Seated",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Rowing, Seated",
+    "secondary_muscles": [],
     "variation-id": 1
   },
   {
@@ -603,14 +603,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Bent Over Rowing",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Biceps"
     ],
-    "name": "Bent Over Rowing",
     "variation-id": 1
   },
   {
@@ -626,14 +626,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Bent Over Rowing Reverse",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Biceps"
     ],
-    "name": "Bent Over Rowing Reverse",
     "variation-id": 1
   },
   {
@@ -649,13 +649,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Squats",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Squats",
     "variation-id": 12
   },
   {
@@ -671,13 +671,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Dumbbell Lunges Standing",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Dumbbell Lunges Standing",
     "variation-id": 13
   },
   {
@@ -693,13 +693,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Dumbbell Lunges Walking",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Dumbbell Lunges Walking",
     "variation-id": 13
   },
   {
@@ -713,13 +713,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Leg Presses (wide)",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Leg Presses (wide)",
     "variation-id": 15
   },
   {
@@ -733,13 +733,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Leg Presses (narrow)",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Leg Presses (narrow)",
     "variation-id": 15
   },
   {
@@ -753,11 +753,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Good Mornings",
+    "primary_muscles": [
       "Hamstrings"
     ],
-    "muscles_secondary": [],
-    "name": "Good Mornings",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -771,11 +771,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Leg Curls (sitting)",
+    "primary_muscles": [
       "Hamstrings"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Curls (sitting)",
+    "secondary_muscles": [],
     "variation-id": 14
   },
   {
@@ -789,11 +789,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Leg Curls (standing)",
+    "primary_muscles": [
       "Hamstrings"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Curls (standing)",
+    "secondary_muscles": [],
     "variation-id": 14
   },
   {
@@ -809,11 +809,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Shoulder Press, Barbell",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Shoulder Press, Barbell",
+    "secondary_muscles": [],
     "variation-id": 5
   },
   {
@@ -827,11 +827,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Fly With Cable",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Fly With Cable",
+    "secondary_muscles": [],
     "variation-id": 9
   },
   {
@@ -847,11 +847,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Shoulder Press, Dumbbells",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Shoulder Press, Dumbbells",
+    "secondary_muscles": [],
     "variation-id": 5
   },
   {
@@ -865,11 +865,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Butterfly Reverse",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Butterfly Reverse",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -885,13 +885,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Leg Raises, Lying",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Serratus anterior"
     ],
-    "name": "Leg Raises, Lying",
     "variation-id": 11
   },
   {
@@ -905,13 +905,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Leg Raises, Standing",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Serratus anterior"
     ],
-    "name": "Leg Raises, Standing",
     "variation-id": 11
   },
   {
@@ -927,14 +927,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Upright Row, SZ-bar",
+    "primary_muscles": [
       "Shoulders",
-      "Trapezius"
+      "Traps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps"
     ],
-    "name": "Upright Row, SZ-bar",
     "variation-id": null
   },
   {
@@ -948,11 +948,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
-      "Trapezius"
-    ],
-    "muscles_secondary": [],
     "name": "Hyperextensions",
+    "primary_muscles": [
+      "Traps"
+    ],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -966,11 +966,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Biceps Curl With Cable",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [],
-    "name": "Biceps Curl With Cable",
+    "secondary_muscles": [],
     "variation-id": 16
   },
   {
@@ -984,11 +984,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Leg Press on Hackenschmidt Machine",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Press on Hackenschmidt Machine",
+    "secondary_muscles": [],
     "variation-id": 15
   },
   {
@@ -1002,13 +1002,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Hammercurls on Cable",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Brachialis"
     ],
-    "name": "Hammercurls on Cable",
     "variation-id": 16
   },
   {
@@ -1022,11 +1022,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Triceps Machine",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Triceps Machine",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1040,15 +1040,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Pull Ups on Machine",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Biceps",
-      "Trapezius"
+      "Traps"
     ],
-    "name": "Pull Ups on Machine",
     "variation-id": null
   },
   {
@@ -1062,11 +1062,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
-      "Lats"
-    ],
-    "muscles_secondary": [],
     "name": "MGM Machine",
+    "primary_muscles": [
+      "Lats"
+    ],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1080,11 +1080,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Rowing, Lying on Bench",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Rowing, Lying on Bench",
+    "secondary_muscles": [],
     "variation-id": 1
   },
   {
@@ -1098,14 +1098,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Long-Pulley (low Row)",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps",
       "Brachialis"
     ],
-    "name": "Long-Pulley (low Row)",
     "variation-id": null
   },
   {
@@ -1119,14 +1119,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Long-Pulley, Narrow",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps",
       "Brachialis"
     ],
-    "name": "Long-Pulley, Narrow",
     "variation-id": null
   },
   {
@@ -1142,11 +1142,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Fly With Dumbbells",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Fly With Dumbbells",
+    "secondary_muscles": [],
     "variation-id": 9
   },
   {
@@ -1162,11 +1162,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Fly With Dumbbells, Decline Bench",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Fly With Dumbbells, Decline Bench",
+    "secondary_muscles": [],
     "variation-id": 9
   },
   {
@@ -1180,14 +1180,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Upright Row, on Multi Press",
+    "primary_muscles": [
       "Shoulders",
-      "Trapezius"
+      "Traps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps"
     ],
-    "name": "Upright Row, on Multi Press",
     "variation-id": null
   },
   {
@@ -1203,11 +1203,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Lateral Raises",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Lateral Raises",
+    "secondary_muscles": [],
     "variation-id": 4
   },
   {
@@ -1221,11 +1221,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Lateral Raises on Cable, One Armed",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Lateral Raises on Cable, One Armed",
+    "secondary_muscles": [],
     "variation-id": 4
   },
   {
@@ -1241,11 +1241,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Shrugs, Barbells",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Shrugs, Barbells",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1261,11 +1261,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Shrugs, Dumbbells",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Shrugs, Dumbbells",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1279,11 +1279,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Shoulder Press, on Machine",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Shoulder Press, on Machine",
+    "secondary_muscles": [],
     "variation-id": 5
   },
   {
@@ -1297,11 +1297,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Leg Curls (laying)",
+    "primary_muscles": [
       "Hamstrings"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Curls (laying)",
+    "secondary_muscles": [],
     "variation-id": 14
   },
   {
@@ -1315,11 +1315,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "wger.de",
-    "muscles": [
+    "name": "Shoulder Press, on Multi Press",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Shoulder Press, on Multi Press",
+    "secondary_muscles": [],
     "variation-id": 5
   },
   {
@@ -1333,16 +1333,16 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "minifigmaster125",
-    "muscles": [
+    "name": "Pistol Squat",
+    "primary_muscles": [
       "Hamstrings",
       "Glutes"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Biceps",
       "Brachialis"
     ],
-    "name": "Pistol Squat",
     "variation-id": 12
   },
   {
@@ -1356,13 +1356,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Mahoney",
-    "muscles": [
+    "name": "Rack Deadlift",
+    "primary_muscles": [
       "Glutes"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps"
     ],
-    "name": "Rack Deadlift",
     "variation-id": 3
   },
   {
@@ -1376,11 +1376,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Mahoney",
-    "muscles": [
+    "name": "Triceps Dips",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Triceps Dips",
+    "secondary_muscles": [],
     "variation-id": 19
   },
   {
@@ -1397,13 +1397,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Mahoney",
-    "muscles": [
+    "name": "Incline Bench Press",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Triceps"
     ],
-    "name": "Incline Bench Press",
     "variation-id": 7
   },
   {
@@ -1417,13 +1417,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Mahoney",
-    "muscles": [
+    "name": "High Pull",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "High Pull",
     "variation-id": null
   },
   {
@@ -1437,13 +1437,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Mahoney",
-    "muscles": [
+    "name": "Incline Plank With Alternate Floor Touch",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [
-      "Obliquus externus abdominis"
+    "secondary_muscles": [
+      "Obliques"
     ],
-    "name": "Incline Plank With Alternate Floor Touch",
     "variation-id": null
   },
   {
@@ -1457,11 +1457,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "robhoyt",
-    "muscles": [
+    "name": "Hanging Leg Raises",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Hanging Leg Raises",
+    "secondary_muscles": [],
     "variation-id": 11
   },
   {
@@ -1475,11 +1475,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "robhoyt",
-    "muscles": [
-      "Obliquus externus abdominis"
-    ],
-    "muscles_secondary": [],
     "name": "Cable Woodchoppers",
+    "primary_muscles": [
+      "Obliques"
+    ],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1493,13 +1493,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "kwrindy",
-    "muscles": [
+    "name": "Incline Pushups",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Hamstrings"
     ],
-    "name": "Incline Pushups",
     "variation-id": 8
   },
   {
@@ -1513,11 +1513,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "djblitzd",
-    "muscles": [
-      "Obliquus externus abdominis"
-    ],
-    "muscles_secondary": [],
     "name": "Splinter Sit-ups",
+    "primary_muscles": [
+      "Obliques"
+    ],
+    "secondary_muscles": [],
     "variation-id": 10
   },
   {
@@ -1533,13 +1533,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "kwrindy",
-    "muscles": [
-      "Obliquus externus abdominis"
+    "name": "Side Crunch",
+    "primary_muscles": [
+      "Obliques"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Abs"
     ],
-    "name": "Side Crunch",
     "variation-id": 10
   },
   {
@@ -1553,11 +1553,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "kwrindy",
-    "muscles": [
+    "name": "Leg Extension",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Extension",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1573,12 +1573,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "oliser67",
-    "muscles": [
+    "name": "Chin-ups",
+    "primary_muscles": [
       "Biceps",
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Chin-ups",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1592,11 +1592,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "OGhTebfCxhexZXuf35mUxV9C--A",
-    "muscles": [
+    "name": "Perfect Push Up",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Perfect Push Up",
+    "secondary_muscles": [],
     "variation-id": 8
   },
   {
@@ -1610,11 +1610,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "OGhTebfCxhexZXuf35mUxV9C--A",
-    "muscles": [
+    "name": "Squat Jumps",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Squat Jumps",
+    "secondary_muscles": [],
     "variation-id": 12
   },
   {
@@ -1628,13 +1628,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Horal_cz",
-    "muscles": [
+    "name": "Triceps Bench Press One Barbell",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders"
     ],
-    "name": "Triceps Bench Press One Barbell",
     "variation-id": 18
   },
   {
@@ -1648,11 +1648,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "drthurlow",
-    "muscles": [
+    "name": "Lat Pull Down (Straight Back)",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Lat Pull Down (Straight Back)",
+    "secondary_muscles": [],
     "variation-id": 2
   },
   {
@@ -1666,11 +1666,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "drthurlow",
-    "muscles": [
+    "name": "Lat Pull Down (Leaning Back)",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Lat Pull Down (Leaning Back)",
+    "secondary_muscles": [],
     "variation-id": 2
   },
   {
@@ -1684,13 +1684,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "sistab2",
-    "muscles": [
+    "name": "Power Clean",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Quads"
     ],
-    "name": "Power Clean",
     "variation-id": null
   },
   {
@@ -1704,13 +1704,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "sistab2",
-    "muscles": [
-      "Trapezius"
+    "name": "Push Press",
+    "primary_muscles": [
+      "Traps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Push Press",
     "variation-id": 5
   },
   {
@@ -1726,13 +1726,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "sistab2",
-    "muscles": [
+    "name": "Front Squats",
+    "primary_muscles": [
       "Glutes"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Abs"
     ],
-    "name": "Front Squats",
     "variation-id": 12
   },
   {
@@ -1749,14 +1749,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "sistab2",
-    "muscles": [
+    "name": "Bench Press",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Triceps"
     ],
-    "name": "Bench Press",
     "variation-id": 7
   },
   {
@@ -1770,13 +1770,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "cgoob883",
-    "muscles": [
-      "Brachialis"
-    ],
-    "muscles_secondary": [
-      "Brachialis"
-    ],
     "name": "Preacher Curls",
+    "primary_muscles": [
+      "Brachialis"
+    ],
+    "secondary_muscles": [
+      "Brachialis"
+    ],
     "variation-id": 16
   },
   {
@@ -1790,13 +1790,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "powerade69",
-    "muscles": [
+    "name": "Cross-Bench Dumbbell Pullovers",
+    "primary_muscles": [
       "Lats",
       "Chest",
       "Serratus anterior"
     ],
-    "muscles_secondary": [],
-    "name": "Cross-Bench Dumbbell Pullovers",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1812,15 +1812,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "maxamillion1414",
-    "muscles": [
+    "name": "Push Ups",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Chest",
       "Abs"
     ],
-    "name": "Push Ups",
     "variation-id": null
   },
   {
@@ -1834,11 +1834,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "ThisGirl0819",
-    "muscles": [
+    "name": "Overhand Cable Curl",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [],
-    "name": "Overhand Cable Curl",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1854,15 +1854,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Nallitnas",
-    "muscles": [
+    "name": "Pendelay Rows",
+    "primary_muscles": [
       "Lats",
-      "Trapezius"
+      "Traps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps",
       "Triceps"
     ],
-    "name": "Pendelay Rows",
     "variation-id": 1
   },
   {
@@ -1878,18 +1878,18 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Dexter",
-    "muscles": [
+    "name": "Wall Pushup",
+    "primary_muscles": [
       "Shoulders",
       "Chest",
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes",
       "Abs",
       "Serratus anterior",
-      "Trapezius"
+      "Traps"
     ],
-    "name": "Wall Pushup",
     "variation-id": null
   },
   {
@@ -1903,11 +1903,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Wide-grip Pulldown",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Wide-grip Pulldown",
+    "secondary_muscles": [],
     "variation-id": 2
   },
   {
@@ -1923,11 +1923,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Single-arm Preacher Curl",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [],
-    "name": "Single-arm Preacher Curl",
+    "secondary_muscles": [],
     "variation-id": 16
   },
   {
@@ -1944,11 +1944,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Incline Dumbbell Flye",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Incline Dumbbell Flye",
+    "secondary_muscles": [],
     "variation-id": 9
   },
   {
@@ -1962,11 +1962,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Cable Cross-over",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Cable Cross-over",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -1982,11 +1982,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Reverse Bar Curl",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [],
-    "name": "Reverse Bar Curl",
+    "secondary_muscles": [],
     "variation-id": 16
   },
   {
@@ -2002,13 +2002,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Stiff-legged Deadlifts",
+    "primary_muscles": [
       "Hamstrings"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Stiff-legged Deadlifts",
     "variation-id": 3
   },
   {
@@ -2025,11 +2025,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Incline Dumbbell Press",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Incline Dumbbell Press",
+    "secondary_muscles": [],
     "variation-id": 7
   },
   {
@@ -2043,11 +2043,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Leverage Machine Chest Press",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [],
-    "name": "Leverage Machine Chest Press",
+    "secondary_muscles": [],
     "variation-id": 7
   },
   {
@@ -2061,13 +2061,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Underhand Lat Pull Down",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps"
     ],
-    "name": "Underhand Lat Pull Down",
     "variation-id": 2
   },
   {
@@ -2081,11 +2081,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Close-grip Lat Pull Down",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Close-grip Lat Pull Down",
+    "secondary_muscles": [],
     "variation-id": 2
   },
   {
@@ -2099,11 +2099,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Leverage Machine Iso Row",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Leverage Machine Iso Row",
+    "secondary_muscles": [],
     "variation-id": 1
   },
   {
@@ -2117,13 +2117,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Straight-arm Pull Down (rope Attachment)",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Triceps"
     ],
-    "name": "Straight-arm Pull Down (rope Attachment)",
     "variation-id": 2
   },
   {
@@ -2137,13 +2137,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Straight-arm Pull Down (bar Attachment)",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Triceps"
     ],
-    "name": "Straight-arm Pull Down (bar Attachment)",
     "variation-id": 2
   },
   {
@@ -2160,13 +2160,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Close-grip Bench Press",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Chest"
     ],
-    "name": "Close-grip Bench Press",
     "variation-id": 18
   },
   {
@@ -2180,13 +2180,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuckerm",
-    "muscles": [
+    "name": "Smith Machine Close-grip Bench Press",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Chest"
     ],
-    "name": "Smith Machine Close-grip Bench Press",
     "variation-id": 18
   },
   {
@@ -2202,9 +2202,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "trzr23",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Arnold Shoulder Press",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 5
   },
   {
@@ -2220,14 +2220,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Wikipedia",
-    "muscles": [
+    "name": "Military Press",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Chest",
       "Triceps"
     ],
-    "name": "Military Press",
     "variation-id": 5
   },
   {
@@ -2244,14 +2244,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "Manu, wikipedia",
-    "muscles": [
+    "name": "Front Raises",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps",
       "Serratus anterior"
     ],
-    "name": "Front Raises",
     "variation-id": 4
   },
   {
@@ -2267,9 +2267,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "YYCfit",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Rear Delt Raises",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 4
   },
   {
@@ -2285,16 +2285,16 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "YYCfit / BFad07",
-    "muscles": [
-      "Obliquus externus abdominis",
+    "name": "Plank",
+    "primary_muscles": [
+      "Obliques",
       "Abs"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps",
       "Quads",
       "Triceps"
     ],
-    "name": "Plank",
     "variation-id": null
   },
   {
@@ -2308,13 +2308,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "J120290,cerin",
-    "muscles": [
+    "name": "Kettlebell Swings",
+    "primary_muscles": [
       "Glutes"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Hamstrings"
     ],
-    "name": "Kettlebell Swings",
     "variation-id": null
   },
   {
@@ -2330,9 +2330,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "mbozi1",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Military Press",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2348,11 +2348,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "http://www.carinatum.com/",
-    "muscles": [
-      "Obliquus externus abdominis"
-    ],
-    "muscles_secondary": [],
     "name": "Upper External Oblique",
+    "primary_muscles": [
+      "Obliques"
+    ],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2368,14 +2368,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "aszc",
-    "muscles": [
+    "name": "Decline Pushups",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Triceps"
     ],
-    "name": "Decline Pushups",
     "variation-id": 8
   },
   {
@@ -2389,9 +2389,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "MaddieBeasley",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Roman Chair",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2405,11 +2405,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "lauroernesto",
-    "muscles": [
+    "name": "Cable External Rotation",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Cable External Rotation",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2425,11 +2425,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "lakerbeezel",
-    "muscles": [
-      "Trapezius"
-    ],
-    "muscles_secondary": [],
     "name": "Bent High Pulls",
+    "primary_muscles": [
+      "Traps"
+    ],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2443,9 +2443,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "foguinho.peruca",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Run - Treadmill",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2462,13 +2462,13 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "Mens Fitness",
-    "muscles": [
+    "name": "Pause Bench",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Triceps"
     ],
-    "name": "Pause Bench",
     "variation-id": 7
   },
   {
@@ -2484,11 +2484,11 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "Mens Fitness",
-    "muscles": [
+    "name": "Snach",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Snach",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2504,14 +2504,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "tuninx",
-    "muscles": [
+    "name": "Dumbbell Triceps Extension",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Chest"
     ],
-    "name": "Dumbbell Triceps Extension",
     "variation-id": 17
   },
   {
@@ -2527,13 +2527,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "http://www.exrx.net/WeightExercises/Brachialis/DBC",
-    "muscles": [
+    "name": "Dumbbell Concentration Curl",
+    "primary_muscles": [
       "Brachialis"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps"
     ],
-    "name": "Dumbbell Concentration Curl",
     "variation-id": 16
   },
   {
@@ -2549,13 +2549,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "GiglioRosso",
-    "muscles": [
-      "Obliquus externus abdominis"
+    "name": "Side Dumbbell Trunk Flexion",
+    "primary_muscles": [
+      "Obliques"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Abs"
     ],
-    "name": "Side Dumbbell Trunk Flexion",
     "variation-id": null
   },
   {
@@ -2571,11 +2571,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "http://www.bodybuilding.com/",
-    "muscles": [
+    "name": "Tricep Dumbbell Kickback",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Tricep Dumbbell Kickback",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2589,9 +2589,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "bizyguy",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "L Hold",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2607,14 +2607,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "GrosseHund",
-    "muscles": [
-      "Shoulders",
-      "Trapezius"
-    ],
-    "muscles_secondary": [
-      "Trapezius"
-    ],
     "name": "Axe Hold",
+    "primary_muscles": [
+      "Shoulders",
+      "Traps"
+    ],
+    "secondary_muscles": [
+      "Traps"
+    ],
     "variation-id": null
   },
   {
@@ -2628,15 +2628,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
     },
     "license_author": "GrosseHund",
-    "muscles": [
+    "name": "Hercules Pillars",
+    "primary_muscles": [
       "Biceps",
       "Brachialis",
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders"
     ],
-    "name": "Hercules Pillars",
     "variation-id": null
   },
   {
@@ -2650,9 +2650,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "intelman",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Stationary Bike",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2668,13 +2668,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "ExRx",
-    "muscles": [
+    "name": "Dumbbell Incline Curl",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Brachialis"
     ],
-    "name": "Dumbbell Incline Curl",
     "variation-id": 16
   },
   {
@@ -2690,11 +2690,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "ataraxie67",
-    "muscles": [
+    "name": "Dumbbell Goblet Squat",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Dumbbell Goblet Squat",
+    "secondary_muscles": [],
     "variation-id": 12
   },
   {
@@ -2708,14 +2708,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "nate303303",
-    "muscles": [
+    "name": "Side to Side Push Ups",
+    "primary_muscles": [
       "Shoulders",
-      "Obliquus externus abdominis",
+      "Obliques",
       "Chest",
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Side to Side Push Ups",
+    "secondary_muscles": [],
     "variation-id": 8
   },
   {
@@ -2729,12 +2729,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "nate303303",
-    "muscles": [
-      "Obliquus externus abdominis",
+    "name": "Flutter Kicks",
+    "primary_muscles": [
+      "Obliques",
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Flutter Kicks",
+    "secondary_muscles": [],
     "variation-id": 11
   },
   {
@@ -2748,18 +2748,18 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "nate303303",
-    "muscles": [
+    "name": "High Knee Jumps",
+    "primary_muscles": [
       "Hamstrings",
       "Calves",
       "Quads",
       "Soleus"
     ],
-    "muscles_secondary": [
-      "Obliquus externus abdominis",
+    "secondary_muscles": [
+      "Obliques",
       "Abs",
       "Serratus anterior"
     ],
-    "name": "High Knee Jumps",
     "variation-id": null
   },
   {
@@ -2773,12 +2773,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "nate303303",
-    "muscles": [
+    "name": "Z Curls",
+    "primary_muscles": [
       "Biceps",
       "Brachialis"
     ],
-    "muscles_secondary": [],
-    "name": "Z Curls",
+    "secondary_muscles": [],
     "variation-id": 16
   },
   {
@@ -2794,12 +2794,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "nate303303",
-    "muscles": [
-      "Shoulders",
-      "Trapezius"
-    ],
-    "muscles_secondary": [],
     "name": "Lateral-to-Front Raises",
+    "primary_muscles": [
+      "Shoulders",
+      "Traps"
+    ],
+    "secondary_muscles": [],
     "variation-id": 4
   },
   {
@@ -2815,7 +2815,8 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "nate303303",
-    "muscles": [
+    "name": "Bear Walk",
+    "primary_muscles": [
       "Shoulders",
       "Calves",
       "Chest",
@@ -2824,14 +2825,13 @@
       "Soleus",
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes",
       "Lats",
-      "Obliquus externus abdominis",
+      "Obliques",
       "Quads",
-      "Trapezius"
+      "Traps"
     ],
-    "name": "Bear Walk",
     "variation-id": null
   },
   {
@@ -2845,12 +2845,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "nate303303",
-    "muscles": [
+    "name": "Calf Press Using Leg Press Machine",
+    "primary_muscles": [
       "Calves",
       "Soleus"
     ],
-    "muscles_secondary": [],
-    "name": "Calf Press Using Leg Press Machine",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2864,13 +2864,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Robertcoop",
-    "muscles": [
-      "Obliquus externus abdominis"
+    "name": "Trunk Rotation With Cable ",
+    "primary_muscles": [
+      "Obliques"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Lats"
     ],
-    "name": "Trunk Rotation With Cable ",
     "variation-id": null
   },
   {
@@ -2886,14 +2886,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "koreyhinton",
-    "muscles": [
+    "name": "Upright Row w/ Dumbbells",
+    "primary_muscles": [
       "Shoulders",
-      "Trapezius"
+      "Traps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps"
     ],
-    "name": "Upright Row w/ Dumbbells",
     "variation-id": null
   },
   {
@@ -2909,9 +2909,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Trix",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Lying Rotator Cuff Exercise",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2925,9 +2925,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "vince63",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Hand Grip",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2943,19 +2943,19 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "dookie1481",
-    "muscles": [
-      "Shoulders",
-      "Glutes",
-      "Obliquus externus abdominis",
-      "Serratus anterior"
-    ],
-    "muscles_secondary": [
-      "Shoulders",
-      "Glutes",
-      "Obliquus externus abdominis",
-      "Serratus anterior"
-    ],
     "name": "Turkish Get-Up",
+    "primary_muscles": [
+      "Shoulders",
+      "Glutes",
+      "Obliques",
+      "Serratus anterior"
+    ],
+    "secondary_muscles": [
+      "Shoulders",
+      "Glutes",
+      "Obliques",
+      "Serratus anterior"
+    ],
     "variation-id": null
   },
   {
@@ -2971,9 +2971,9 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "tobahl",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Side Raise",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -2989,9 +2989,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "jigglychipmunk",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Weighted Step",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3005,9 +3005,9 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "jigglychipmunk",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Weighted Step-ups",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3023,13 +3023,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "http://www.bodybuilding.com/",
-    "muscles": [
+    "name": "Side Plank",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [
-      "Obliquus externus abdominis"
+    "secondary_muscles": [
+      "Obliques"
     ],
-    "name": "Side Plank",
     "variation-id": null
   },
   {
@@ -3045,13 +3045,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "http://www.realsimple.com/health/fitness-exercise/",
-    "muscles": [
+    "name": "Full Sit Outs",
+    "primary_muscles": [
       "Glutes",
-      "Obliquus externus abdominis",
+      "Obliques",
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Full Sit Outs",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3065,9 +3065,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "MrSteele",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Speed Deadlift",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 3
   },
   {
@@ -3083,9 +3083,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "oboema",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Diagonal Shoulder Press",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 5
   },
   {
@@ -3101,12 +3101,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "baldurmen",
-    "muscles": [
+    "name": "Superman",
+    "primary_muscles": [
       "Glutes",
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Superman",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3122,13 +3122,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "cal.zabel",
-    "muscles": [
+    "name": "Isometric Wipers",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Abs"
     ],
-    "name": "Isometric Wipers",
     "variation-id": null
   },
   {
@@ -3142,11 +3142,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "cal.zabel",
-    "muscles": [
+    "name": "Shotgun Row",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Shotgun Row",
+    "secondary_muscles": [],
     "variation-id": 1
   },
   {
@@ -3163,11 +3163,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "cal.zabel",
-    "muscles": [],
-    "muscles_secondary": [
+    "name": "Incline Dumbbell Row",
+    "primary_muscles": [],
+    "secondary_muscles": [
       "Lats"
     ],
-    "name": "Incline Dumbbell Row",
     "variation-id": 1
   },
   {
@@ -3183,11 +3183,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "cal.zabel",
-    "muscles": [
+    "name": "Body-Ups",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Body-Ups",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3201,13 +3201,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "sevae",
-    "muscles": [
+    "name": "Braced Squat",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Braced Squat",
     "variation-id": 12
   },
   {
@@ -3223,15 +3223,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "sevae",
-    "muscles": [
-      "Obliquus externus abdominis",
+    "name": "Barbell Ab Rollout",
+    "primary_muscles": [
+      "Obliques",
       "Abs"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Lats"
     ],
-    "name": "Barbell Ab Rollout",
     "variation-id": null
   },
   {
@@ -3247,14 +3247,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "sevae",
-    "muscles": [
+    "name": "Barbell Triceps Extension",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Chest"
     ],
-    "name": "Barbell Triceps Extension",
     "variation-id": 17
   },
   {
@@ -3270,9 +3270,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "deusinvictus",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "2 Handed Kettlebell Swing",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3286,9 +3286,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "2dPREtEZP221u68Akf0JImv5L48",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Deadhang",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3304,9 +3304,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "pjwirth",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Romanian Deadlift",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 3
   },
   {
@@ -3320,9 +3320,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "er0355",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Burpees",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3336,9 +3336,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "geraldbaeck",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Overhead Squat",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 12
   },
   {
@@ -3354,9 +3354,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Nash",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Wall Handstand",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3370,11 +3370,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Nash",
-    "muscles": [
+    "name": "Ring Dips",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Ring Dips",
+    "secondary_muscles": [],
     "variation-id": 19
   },
   {
@@ -3390,13 +3390,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Nash",
-    "muscles": [
+    "name": "Pike Push Ups",
+    "primary_muscles": [
       "Chest"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Triceps"
     ],
-    "name": "Pike Push Ups",
     "variation-id": null
   },
   {
@@ -3412,15 +3412,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "sebk",
-    "muscles": [
+    "name": "Bentover Dumbbell Rows",
+    "primary_muscles": [
       "Lats"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps",
       "Hamstrings",
       "Brachialis"
     ],
-    "name": "Bentover Dumbbell Rows",
     "variation-id": 1
   },
   {
@@ -3436,17 +3436,17 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "James Mackay",
-    "muscles": [
+    "name": "Hip Raise, Lying",
+    "primary_muscles": [
       "Hamstrings",
       "Glutes"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Lats",
-      "Obliquus externus abdominis",
+      "Obliques",
       "Abs",
-      "Trapezius"
+      "Traps"
     ],
-    "name": "Hip Raise, Lying",
     "variation-id": null
   },
   {
@@ -3462,15 +3462,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "bobbyprince89",
-    "muscles": [],
-    "muscles_secondary": [
+    "name": "Deficit Deadlift",
+    "primary_muscles": [],
+    "secondary_muscles": [
       "Hamstrings",
       "Glutes",
       "Lats",
       "Abs",
       "Soleus"
     ],
-    "name": "Deficit Deadlift",
     "variation-id": 3
   },
   {
@@ -3484,9 +3484,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "pwiltrout",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Standing Rope Forearm",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3503,12 +3503,12 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "Behrooz",
-    "muscles": [
-      "Obliquus externus abdominis",
+    "name": "Hollow Hold",
+    "primary_muscles": [
+      "Obliques",
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Hollow Hold",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3525,11 +3525,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "richmr2174@gmail.com",
-    "muscles": [
+    "name": "Seated Triceps Press",
+    "primary_muscles": [
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Seated Triceps Press",
+    "secondary_muscles": [],
     "variation-id": 18
   },
   {
@@ -3545,12 +3545,12 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "Blablabla",
-    "muscles": [
+    "name": "Wall Squat",
+    "primary_muscles": [
       "Hamstrings",
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Wall Squat",
+    "secondary_muscles": [],
     "variation-id": 12
   },
   {
@@ -3566,12 +3566,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "taylorbarbell",
-    "muscles": [
+    "name": "Low Box Squat - Wide Stance",
+    "primary_muscles": [
       "Glutes",
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Low Box Squat - Wide Stance",
+    "secondary_muscles": [],
     "variation-id": 12
   },
   {
@@ -3592,20 +3592,21 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Vazco",
-    "muscles": [
+    "name": "Upper Body",
+    "primary_muscles": [
       "Shoulders",
       "Biceps",
       "Hamstrings",
-      "Obliquus externus abdominis",
+      "Obliques",
       "Chest",
       "Quads",
       "Abs",
       "Serratus anterior",
       "Soleus",
-      "Trapezius",
+      "Traps",
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders",
       "Biceps",
       "Hamstrings",
@@ -3613,16 +3614,15 @@
       "Calves",
       "Glutes",
       "Lats",
-      "Obliquus externus abdominis",
+      "Obliques",
       "Chest",
       "Quads",
       "Abs",
       "Serratus anterior",
       "Soleus",
-      "Trapezius",
+      "Traps",
       "Triceps"
     ],
-    "name": "Upper Body",
     "variation-id": null
   },
   {
@@ -3636,11 +3636,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "abeworld",
-    "muscles": [
-      "Trapezius"
-    ],
-    "muscles_secondary": [],
     "name": "Facepull",
+    "primary_muscles": [
+      "Traps"
+    ],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3656,17 +3656,17 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BeLikeWater",
-    "muscles": [
+    "name": "Thruster",
+    "primary_muscles": [
       "Shoulders",
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Hamstrings",
       "Glutes",
-      "Trapezius",
+      "Traps",
       "Triceps"
     ],
-    "name": "Thruster",
     "variation-id": null
   },
   {
@@ -3680,9 +3680,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "BeLikeWater",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Run",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3696,9 +3696,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "BeLikeWater",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Run - Interval Training ",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3715,14 +3715,14 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "bl0sh",
-    "muscles": [
+    "name": "Reverse Grip Bench Press",
+    "primary_muscles": [
       "Chest",
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Shoulders"
     ],
-    "name": "Reverse Grip Bench Press",
     "variation-id": 7
   },
   {
@@ -3738,13 +3738,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Mikko Ruohola",
-    "muscles": [
+    "name": "Barbell Lunges",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Barbell Lunges",
     "variation-id": 13
   },
   {
@@ -3760,13 +3760,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "BePieToday",
-    "muscles": [
+    "name": "Barbell Hack Squats",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Barbell Hack Squats",
     "variation-id": 12
   },
   {
@@ -3780,13 +3780,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "tdprice12",
-    "muscles": [
+    "name": "Glute Bridge",
+    "primary_muscles": [
       "Glutes"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Hamstrings"
     ],
-    "name": "Glute Bridge",
     "variation-id": null
   },
   {
@@ -3800,9 +3800,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "spacetowaste",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Reverse Plank",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3816,11 +3816,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Cerin",
-    "muscles": [
+    "name": "Skipping - Standard",
+    "primary_muscles": [
       "Calves"
     ],
-    "muscles_secondary": [],
-    "name": "Skipping - Standard",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3836,9 +3836,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "warchildmd",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Bent Over Barbell Row",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 1
   },
   {
@@ -3852,9 +3852,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "geantvert",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Extenseurs - Face",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3868,13 +3868,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "krisbbb",
-    "muscles": [
+    "name": "Crunches With Legs Up",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [
-      "Obliquus externus abdominis"
+    "secondary_muscles": [
+      "Obliques"
     ],
-    "name": "Crunches With Legs Up",
     "variation-id": 10
   },
   {
@@ -3891,9 +3891,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "apeschel",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Bent-over Lateral Raises",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 4
   },
   {
@@ -3907,9 +3907,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "apeschel",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Side-lying External Rotation",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3923,9 +3923,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Papazit",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Jogging",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3939,9 +3939,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "apeschel",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "V-Bar Pulldown",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": 2
   },
   {
@@ -3955,11 +3955,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "donaddon",
-    "muscles": [
-      "Trapezius"
-    ],
-    "muscles_secondary": [],
     "name": "Prone Scapular Retraction - Arms at Side",
+    "primary_muscles": [
+      "Traps"
+    ],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -3973,15 +3973,15 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BNolet",
-    "muscles": [
+    "name": "High Knees",
+    "primary_muscles": [
       "Calves",
       "Quads",
       "Soleus"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Abs"
     ],
-    "name": "High Knees",
     "variation-id": null
   },
   {
@@ -3995,9 +3995,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Metin",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Deadbug",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4013,15 +4013,15 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Whythebigpaws",
-    "muscles": [
+    "name": "Wall Slides",
+    "primary_muscles": [
       "Biceps",
       "Hamstrings",
       "Chest",
-      "Trapezius",
+      "Traps",
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Wall Slides",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4035,11 +4035,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "magdy",
-    "muscles": [
+    "name": "Sumo Deadlift",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Sumo Deadlift",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4055,12 +4055,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "sophialj",
-    "muscles": [
+    "name": "Sumo Squats",
+    "primary_muscles": [
       "Glutes",
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Sumo Squats",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4076,11 +4076,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "csequino",
-    "muscles": [
+    "name": "Curl su Panca a 45\u00b0",
+    "primary_muscles": [
       "Biceps"
     ],
-    "muscles_secondary": [],
-    "name": "Curl su Panca a 45\u00b0",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4096,12 +4096,12 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "arson",
-    "muscles": [
+    "name": "Muscle up",
+    "primary_muscles": [
       "Biceps",
       "Hamstrings"
     ],
-    "muscles_secondary": [],
-    "name": "Muscle up",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4115,11 +4115,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "vkylamba",
-    "muscles": [
+    "name": "Scissors",
+    "primary_muscles": [
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Scissors",
+    "secondary_muscles": [],
     "variation-id": 11
   },
   {
@@ -4133,9 +4133,9 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "axel",
-    "muscles": [],
-    "muscles_secondary": [],
     "name": "Back Squat",
+    "primary_muscles": [],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4149,13 +4149,13 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Vilhelmo",
-    "muscles": [
+    "name": "Hindu Squats",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Glutes"
     ],
-    "name": "Hindu Squats",
     "variation-id": 12
   },
   {
@@ -4171,12 +4171,12 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "fletchgraham",
-    "muscles": [
-      "Lats",
-      "Trapezius"
-    ],
-    "muscles_secondary": [],
     "name": "Renegade Row",
+    "primary_muscles": [
+      "Lats",
+      "Traps"
+    ],
+    "secondary_muscles": [],
     "variation-id": 1
   },
   {
@@ -4192,14 +4192,14 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Standing Bicep Curl",
+    "primary_muscles": [
       "Biceps",
       "Brachialis"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Brachialis"
     ],
-    "name": "Standing Bicep Curl",
     "variation-id": 16
   },
   {
@@ -4216,14 +4216,14 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Reverse Curl",
+    "primary_muscles": [
       "Biceps",
       "Brachialis"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Biceps"
     ],
-    "name": "Reverse Curl",
     "variation-id": null
   },
   {
@@ -4240,12 +4240,12 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Calf Raises",
+    "primary_muscles": [
       "Calves",
       "Soleus"
     ],
-    "muscles_secondary": [],
-    "name": "Calf Raises",
+    "secondary_muscles": [],
     "variation-id": 6
   },
   {
@@ -4261,14 +4261,14 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Dips",
+    "primary_muscles": [
       "Chest",
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Triceps"
     ],
-    "name": "Dips",
     "variation-id": null
   },
   {
@@ -4282,17 +4282,17 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Leg Press",
+    "primary_muscles": [
       "Hamstrings",
       "Calves",
       "Glutes",
       "Quads"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Calves",
       "Glutes"
     ],
-    "name": "Leg Press",
     "variation-id": 15
   },
   {
@@ -4308,16 +4308,16 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Pushups",
+    "primary_muscles": [
       "Shoulders",
       "Chest",
       "Triceps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Brachialis",
       "Serratus anterior"
     ],
-    "name": "Pushups",
     "variation-id": 8
   },
   {
@@ -4331,12 +4331,12 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
-      "Obliquus externus abdominis",
+    "name": "Leg Raise",
+    "primary_muscles": [
+      "Obliques",
       "Abs"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Raise",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4350,12 +4350,12 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Leg Curl",
+    "primary_muscles": [
       "Hamstrings",
       "Glutes"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Curl",
+    "secondary_muscles": [],
     "variation-id": 14
   },
   {
@@ -4371,7 +4371,8 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Squat Thrust",
+    "primary_muscles": [
       "Shoulders",
       "Biceps",
       "Hamstrings",
@@ -4379,17 +4380,16 @@
       "Calves",
       "Glutes",
       "Lats",
-      "Obliquus externus abdominis",
+      "Obliques",
       "Chest",
       "Quads",
       "Abs",
       "Serratus anterior",
       "Soleus",
-      "Trapezius",
+      "Traps",
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Squat Thrust",
+    "secondary_muscles": [],
     "variation-id": 12
   },
   {
@@ -4403,11 +4403,11 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Leg Extension",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Extension",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4425,14 +4425,14 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Row",
+    "primary_muscles": [
       "Lats",
-      "Trapezius"
+      "Traps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Quads"
     ],
-    "name": "Row",
     "variation-id": null
   },
   {
@@ -4448,11 +4448,11 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Shoulder Fly",
+    "primary_muscles": [
       "Shoulders"
     ],
-    "muscles_secondary": [],
-    "name": "Shoulder Fly",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4468,12 +4468,12 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Chin Up",
+    "primary_muscles": [
       "Biceps",
       "Lats"
     ],
-    "muscles_secondary": [],
-    "name": "Chin Up",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4487,11 +4487,11 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
+    "name": "Leg Extension",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Leg Extension",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4508,11 +4508,11 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
-      "Trapezius"
-    ],
-    "muscles_secondary": [],
     "name": "Shoulder Shrug",
+    "primary_muscles": [
+      "Traps"
+    ],
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4528,18 +4528,18 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
-      "Obliquus externus abdominis",
-      "Trapezius"
+    "name": "Cycling",
+    "primary_muscles": [
+      "Obliques",
+      "Traps"
     ],
-    "muscles_secondary": [
+    "secondary_muscles": [
       "Hamstrings",
       "Brachialis",
       "Glutes",
       "Lats",
       "Quads"
     ],
-    "name": "Cycling",
     "variation-id": null
   },
   {
@@ -4555,12 +4555,12 @@
       "url": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     "license_author": "BFad07",
-    "muscles": [
-      "Trapezius",
+    "name": "Handstand Pushup",
+    "primary_muscles": [
+      "Traps",
       "Triceps"
     ],
-    "muscles_secondary": [],
-    "name": "Handstand Pushup",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4574,11 +4574,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "student1234",
-    "muscles": [
+    "name": "Jumping Jacks",
+    "primary_muscles": [
       "Quads"
     ],
-    "muscles_secondary": [],
-    "name": "Jumping Jacks",
+    "secondary_muscles": [],
     "variation-id": null
   },
   {
@@ -4595,11 +4595,11 @@
       "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
     },
     "license_author": "Bret Contreras",
-    "muscles": [
+    "name": "Hip Thrust",
+    "primary_muscles": [
       "Glutes"
     ],
-    "muscles_secondary": [],
-    "name": "Hip Thrust",
+    "secondary_muscles": [],
     "variation-id": null
   }
 ]
