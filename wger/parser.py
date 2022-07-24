@@ -31,26 +31,28 @@ def join_to_exercises(parsed_data):
         exercise['language'] = data['language'][exercise['language']]['short_name']
         exercise['category'] = data['exercisecategory'][exercise['category']]['name']
         exercise['equipment'] = list(map(
-            lambda key: data['equipment'][key]['name'],
+            lambda key: data['equipment'][key]['name'].lower(),
             exercise['equipment'],
         ))
 
         muscle_lists_to_join = ['muscles', 'muscles_secondary']
         for list_to_join in muscle_lists_to_join:
             def get_name(muscle):
-                return muscle['name_en'] if 'name_en' in muscle else muscle['name']
+                muscle_name = muscle['name_en'] if 'name_en' in muscle else muscle['name']
+                return muscle_name.lower()
             exercise[list_to_join] = list(map(
                 lambda key: get_name(data['muscle'][key]),
                 exercise[list_to_join],
             ))
 
-        to_rename = {'variations': 'variation-id', 'muscles': 'primary_muscles',
+        to_rename = {'variations': 'variation_id', 'muscles': 'primary_muscles',
                      'muscles_secondary': 'secondary_muscles', }
         for old, new in to_rename.items():
             exercise[new] = exercise[old]
             del exercise[old]
 
-        fields_to_delete = ['uuid', 'status', 'name_original']
+        fields_to_delete = ['uuid', 'status',
+                            'name_original', 'creation_date', 'category']
         for field in fields_to_delete:
             del exercise[field]
 
