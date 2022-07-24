@@ -6,7 +6,7 @@ After struggling to find an easy-to-use, open source exercise list for exercemus
 You can use the exercise data directly in your code from here: https://github.com/exercemus/exercises/raw/main/exercises-minified.json
 
 ## NOTICE
-This list is still a WIP, so please expect format changes. However, feel free to use the data as-is.
+This list is still a WIP, so please expect duplicates until I can manually remove them. However, feel free to use the data as-is.
 
 ## Format
 `exercises.json` has the following fields:
