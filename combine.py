@@ -27,7 +27,7 @@ categories = [
     'calisthenics',
 ]
 equipment = [
-    'ez curl bar'
+    'ez curl bar',
     'barbell',
     'dumbbell',
     'gym mat',
@@ -48,7 +48,7 @@ muscles = [
     'abductors',
     'adductors',
     'middle back',
-    'neck'
+    'neck',
     'biceps',
     'shoulders',
     'serratus anterior',
