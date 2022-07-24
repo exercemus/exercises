@@ -3,7 +3,8 @@
 
 After struggling to find an easy-to-use, open source exercise list for exercemus, I decided to curate this open source list. The initial list was created from wger.de and exercises.json (big thanks to these projects). In the future, as exercises are modified and submitted to exercemus by users, they will also be added to this repository for all to enjoy. It is my personal belief that data like that provided here should be readily accessible by all.
 
-You can use the exercise data directly in your code from here: https://github.com/exercemus/exercises/raw/main/exercises-minified.json
+You can use the exercise data directly in your code from here:
+https://raw.githubusercontent.com/exercemus/exercises/main/exercises-minified.json
 
 ## NOTICE
 This list is still a WIP, so please expect duplicates until I can manually remove them. However, feel free to use the data as-is.
