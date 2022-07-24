@@ -1,29 +1,6 @@
 import json
 
-'''
-Allowed fields:
-    "category"
-    "description"
-    "instructions"
-    "tips"
-    "equipment": []
-    "license": {
-      "full_name"
-      "short_name"
-      "url"
-    }
-    "license_author"
-    "name"
-    "aliases"
-    "primary_muscles": []
-    "secondary_muscles": []
-    "tempo"
-    "images": []
-    "video"
-    "variation_id"
-'''
-
-muscle_categories = {
+muscle_groups = {
     'arms': [
         'forearms', 'biceps', 'triceps', 'brachialis',
     ],
@@ -113,7 +90,7 @@ if __name__ == '__main__':
     sources = ['wger/exercises.json', 'exercises_json/exercises.json']
     exercises = combine_sources(sources)
     data = {
-        'muscle_categories': muscle_categories,
+        'muscle_groups': muscle_groups,
         'categories': categories,
         'equipment': equipment,
         'muscles': muscles,
