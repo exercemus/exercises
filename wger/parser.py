@@ -51,6 +51,15 @@ def join_to_exercises(parsed_data):
             exercise[new] = exercise[old]
             del exercise[old]
 
+        equipment_renames = {
+            'sz-bar': 'ez curl bar',
+            'swiss ball': 'exercise ball',
+        }
+        for old, new in equipment_renames.items():
+            for index, equipment in enumerate(exercise['equipment']):
+                if equipment == old:
+                    exercise['equipment'][index] = new
+
         fields_to_delete = ['uuid', 'status',
                             'name_original', 'creation_date', 'category']
         for field in fields_to_delete:
