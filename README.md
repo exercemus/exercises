@@ -1,5 +1,5 @@
 # exercises
-## An open source exercise list curated from [exercemus](https://exercermus.com), [wger.de](https://github.com/wger-project/wger), and [exercises.json](https://github.com/wrkout/exercises.json)
+## An open source exercise list curated from [exercemus](https://exercemus.com), [wger.de](https://github.com/wger-project/wger), and [exercises.json](https://github.com/wrkout/exercises.json)
 
 After struggling to find an easy-to-use, open source exercise list for exercemus, I decided to curate this open source list. The initial list was created from wger.de and exercises.json (big thanks to these projects). In the future, as exercises are modified and submitted to exercemus by users, they will also be added to this repository for all to enjoy. It is my personal belief that data like that provided here should be readily accessible by all.
 
