@@ -20,13 +20,13 @@ categories = [
     'stretching',
     'plyometrics',
     'strongman',
-    'powerlifting',
     'cardio',
     'olympic weightlifting',
     'crossfit',
     'calisthenics',
 ]
 equipment = [
+    'none',
     'ez curl bar',
     'barbell',
     'dumbbell',
@@ -34,7 +34,6 @@ equipment = [
     'exercise ball',
     'medicine ball',
     'pull-up bar',
-    'none (bodyweight exercise)',
     'bench',
     'incline bench',
     'kettlebell',
@@ -68,12 +67,9 @@ muscles = [
 ]
 
 
-def combine_sources(sources):
-    exercises = []
-    for exercise_source in sources:
-        with open(exercise_source, 'r') as file:
-            exercises.extend(json.load(file))
-    return exercises
+def read_exercises(exercise_source):
+    with open(exercise_source, 'r') as file:
+        return json.load(file)
 
 
 def write_pretty(filename, data):
@@ -81,20 +77,13 @@ def write_pretty(filename, data):
         output.write(json.dumps(data, sort_keys=True, indent=2))
 
 
-def write_compressed(filename, data):
-    with open(filename, 'w') as output:
-        output.write(json.dumps(data))
-
-
 if __name__ == '__main__':
-    sources = ['wger/exercises.json', 'exercises_json/exercises.json']
-    exercises = combine_sources(sources)
     data = {
         'muscle_groups': muscle_groups,
         'categories': categories,
         'equipment': equipment,
         'muscles': muscles,
-        'exercises': exercises,
+        'exercises': read_exercises('exercises_json/exercises.json'),
+        'exercises_to_merge': read_exercises('wger/exercises.json'),
     }
-    write_pretty('exercises.json', data)
-    write_compressed('exercises-minified.json', data)
+    write_pretty('combined.json', data)

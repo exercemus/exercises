@@ -14,12 +14,15 @@ def transform_exercises(exercises):
             exercise[new] = exercise[old]
             del exercise[old]
 
-        exercise['equipment'] = [exercise['equipment']] if exercise['equipment'] is not None else []
+        exercise['equipment'] = [exercise['equipment']] \
+            if exercise['equipment'] is not None else ['none']
         if exercise['category'] == 'weighted bodyweight' or exercise['category'] == 'assisted bodyweight':
             exercise['category'] = 'calisthenics'
+        if exercise['category'] == 'powerlifting':
+            exercise['category'] = 'strength'
 
         equipment_renames = {
-            'body only': 'none (bodyweight exercise)',
+            'body only': 'none',
             'kettlebells': 'kettlebell',
             'e-z curl bar': 'ez curl bar',
         }
@@ -39,7 +42,7 @@ def transform_exercises(exercises):
             for index, muscle in enumerate(exercise['secondary_muscles']):
                 if muscle == old:
                     exercise['secondary_muscles'][index] = new
-        
+
         to_delete = ['force', 'level', 'mechanic']
         for key in to_delete:
             if key in exercise:
@@ -49,11 +52,6 @@ def transform_exercises(exercises):
 def write_pretty(filename, data):
     with open(filename, 'w') as output:
         output.write(json.dumps(data, sort_keys=True, indent=2))
-
-
-def write_compressed(filename, data):
-    with open(filename, 'w') as output:
-        output.write(json.dumps(data))
 
 
 if __name__ == "__main__":

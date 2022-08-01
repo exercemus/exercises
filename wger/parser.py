@@ -54,6 +54,7 @@ def join_to_exercises(parsed_data):
         equipment_renames = {
             'sz-bar': 'ez curl bar',
             'swiss ball': 'exercise ball',
+            'none (bodyweight exercise)': 'none',
         }
         for old, new in equipment_renames.items():
             for index, equipment in enumerate(exercise['equipment']):
@@ -71,11 +72,6 @@ def join_to_exercises(parsed_data):
 def write_pretty(filename, data):
     with open(filename, 'w') as output:
         output.write(json.dumps(data, sort_keys=True, indent=2))
-
-
-def write_compressed(filename, data):
-    with open(filename, 'w') as output:
-        output.write(json.dumps(data))
 
 
 if __name__ == '__main__':

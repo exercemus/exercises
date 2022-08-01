@@ -2,7 +2,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",
@@ -20,7 +20,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on your back, with one leg extended straight out.",
@@ -90,7 +90,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie on your back with your feet raised towards the ceiling.",
       "Have your partner hold your feet or ankles. Abduct your legs as far as you can. This will be your starting position.",
@@ -127,7 +129,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put your hands beside your head. Be careful however to not strain with the neck as you perform it. Now lift your shoulders into the crunch position.",
@@ -146,7 +148,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Start off on your hands and knees, then lift your leg off the floor and hold the foot with your hand.",
@@ -185,7 +187,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on the floor with the knees bent and the feet on the floor around 18-24 inches apart. Your arms should be extended by your side. This will be your starting position.",
@@ -222,7 +224,9 @@
   },
   {
     "category": "plyometrics",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Assume a comfortable stance with one foot slightly in front of the other.",
       "Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.",
@@ -383,7 +387,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Use a sturdy object like a squat rack to hold yourself.",
       "Lift the right leg in the air (just around 2 inches from the floor) and perform a circular motion with the big toe. Pretend that you are drawing a big circle with it. Tip: One circle equals 1 repetition. Breathe normally as you perform the movement.",
@@ -397,7 +403,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "From a lying position, bend your knees and keep your feet on the floor.",
       "Place your ankle of one foot on your opposite knee.",
@@ -447,7 +455,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand up and extend your arms straight out by the sides. The arms should be parallel to the floor and perpendicular (90-degree angle) to your torso. This will be your starting position.",
       "Slowly start to make circles of about 1 foot in diameter with each outstretched arm. Breathe normally as you perform the movement.",
@@ -696,7 +706,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "bands"
     ],
@@ -715,7 +725,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "bands"
     ],
@@ -938,7 +948,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -999,7 +1009,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -1393,7 +1403,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "For this exercise you will need to place a bench behind your back. With the bench perpendicular to your body, and while looking away from it, hold on to the bench on its edge with the hands fully extended, separated at shoulder width. The legs will be extended forward, bent at the waist and perpendicular to your torso. This will be your starting position.",
@@ -1413,7 +1423,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin with a box or bench 1-2 feet in front of you. Stand with your feet shoulder width apart. This will be your starting position.",
@@ -1433,7 +1443,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -1478,7 +1488,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -1568,7 +1578,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lay flat on the floor with your arms next to your sides.",
@@ -1792,7 +1802,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -1816,7 +1826,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Assume a plank position on the ground. You should be supporting your bodyweight on your toes and forearms, keeping your torso straight. Your forearms should be shoulder-width apart. This will be your starting position.",
@@ -1836,7 +1846,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Position a bar in a rack at chest height.",
@@ -1895,7 +1905,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand with your feet shoulder width apart. You can place your hands behind your head. This will be your starting position.",
@@ -1913,7 +1923,9 @@
   },
   {
     "category": "strength",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Begin standing with your feet shoulder width apart and your hands on your hips.",
       "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
@@ -1974,7 +1986,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin by lying on your back on the ground. Your legs should be straight and your arms at your side. This will be your starting position.",
@@ -2034,7 +2046,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -2057,7 +2069,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -2144,7 +2156,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin a pushup position but with your elbows on the ground and resting on your forearms. Your arms should be bent at a 90 degree angle.",
@@ -2162,7 +2174,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie flat on the floor on your back with the hands by your side and your knees bent. Your feet should be placed around shoulder width. This will be your starting position.",
@@ -2747,7 +2759,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand facing a wall from a couple feet away.",
       "Lean against the wall, placing your weight on your forearms.",
@@ -2761,7 +2775,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand facing a wall from several feet away. Stagger your stance, placing one foot forward.",
       "Lean forward and rest your hands on the wall, keeping your heel, hip and head in a straight line.",
@@ -2832,7 +2848,9 @@
   },
   {
     "category": "plyometrics",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.",
       "With your right foot, quick step behind and pull the knee up.",
@@ -2853,7 +2871,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Position yourself on the floor on your hands and knees.",
       "Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop.",
@@ -2889,7 +2909,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "other"
     ],
@@ -2905,7 +2925,7 @@
     "secondary_muscles": []
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "other"
     ],
@@ -2944,7 +2964,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Sit upright on a chair.",
       "Bend to one side with your arm over your head. You can hold onto the chair with your free hand.",
@@ -3116,7 +3138,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Get on your hands and knees, walk your hands in front of you.",
       "Lower your buttocks down to sit on your heels. Let your arms drag along the floor as you sit back to stretch your entire spine.",
@@ -3134,7 +3158,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Grab the pull-up bar with the palms facing your torso and a grip closer than the shoulder width.",
@@ -3155,7 +3179,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Get into a seated position on the floor.",
       "Place both hands at the rear of your head, fingers interlocked, thumbs pointing down and elbows pointing straight ahead. Slowly pull your head down to your chest. Hold for 20-30 seconds."
@@ -3368,7 +3394,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Move into a prone position on the floor, supporting your weight on your hands and toes.",
@@ -3516,7 +3542,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on the floor and place your hands on an upright dumbbell. Supporting your weight on your toes and hands, keep your torso rigid and your elbows in with your arms straight. This will be your starting position.",
@@ -3557,7 +3583,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin by lying on your back on the ground. Your legs should be straight and your arms extended behind your head. This will be your starting position.",
@@ -3616,7 +3642,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie flat on your back and bend your knees about 60 degrees.",
@@ -3674,7 +3700,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand with your feet shoulder width apart. This will be your starting position.",
       "Perform a rear lunge by stepping back with one foot and flexing the hips and front knee. As you do so, rotate your torso across the front leg.",
@@ -3712,7 +3740,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on the floor with your back flat and knees bent with around a 60-degree angle between the hamstrings and the calves.",
@@ -3730,7 +3758,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",
@@ -3750,7 +3778,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie flat on your back with your feet flat on the ground, or resting on a bench with your knees bent at a 90 degree angle. If you are resting your feet on a bench, place them three to four inches apart and point your toes inward so they touch.",
@@ -3788,7 +3816,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Sit up on the floor.",
       "Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.",
@@ -3807,7 +3837,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin lying on your back with your hands extended above you toward the ceiling.",
@@ -3825,7 +3855,7 @@
     "secondary_muscles": []
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -3848,7 +3878,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -3919,7 +3949,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Secure your legs at the end of the decline bench and lie down.",
@@ -4014,7 +4044,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
@@ -4032,7 +4062,9 @@
   },
   {
     "category": "strength",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length. Move your feet up to a box or bench. This will be your starting position.",
       "Next, lower yourself downward until your chest almost touches the floor as you inhale.",
@@ -4051,7 +4083,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on your back on a decline bench and hold on to the top of the bench with both hands. Don't let your body slip down from this position.",
@@ -4088,7 +4120,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -4177,7 +4209,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "To get into the starting position, hold your body at arm's length with your arms nearly locked above the bars.",
@@ -4325,7 +4357,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin standing with your knees slightly bent.",
@@ -4508,7 +4540,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "dumbbell"
     ],
@@ -5002,7 +5034,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand with your feet shoulder width apart. This will be your starting position.",
       "Keeping your arms straight, swing them straight up in front of you 5-10 times, increasing the range of motion each time until your arms are above your head."
@@ -5015,7 +5049,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand with your hands together, arms extended directly in front of you. This will be your starting position.",
       "Keeping your arms straight, quickly move your arms back as far as possible and back in again, similar to an exaggerated clapping motion. Repeat 5-10 times, increasing speed as you do so."
@@ -5067,7 +5103,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Sit or stand with your feet slightly apart.",
       "Place your hands on your shoulders with your elbows at shoulder level and pointing out.",
@@ -5084,7 +5122,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on the floor, crossing your right leg across your bent left knee. Clasp your hands behind your head, beginning with your shoulder blades on the ground. This will be your starting position.",
@@ -5099,7 +5137,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand up straight.",
       "Place both hands on your lower back, fingers pointing downward and elbows out.",
@@ -5325,7 +5365,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Start in a relaxed position with one leg slightly forward. This will be your starting position.",
@@ -5384,7 +5424,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on an exercise mat or a flat bench with your legs off the end.",
@@ -5402,7 +5442,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie with your back flat on a bench and your legs extended in front of you off the end.",
@@ -5437,7 +5477,9 @@
   },
   {
     "category": "strength",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "You can use a partner for this exercise or brace your feet under something stable.",
       "Begin on your knees with your upper legs and torso upright. If using a partner, they will firmly hold your feet to keep you in position. This will be your starting position.",
@@ -5454,7 +5496,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -5473,7 +5515,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -5495,7 +5537,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "On a flat bench lie facedown with the hips on the edge of the bench, the legs straight with toes high off the floor and with the arms on top of the bench holding on to the front edge.",
@@ -5574,7 +5616,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Cross your arms over your chest.",
@@ -5596,7 +5638,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand with your hands behind your head, and squat down keeping your torso upright and your head up. This will be your starting position.",
       "Jump forward several feet, avoiding jumping unnecessarily high. As your feet contact the ground, absorb the impact through your legs, and jump again. Repeat this action 5-10 times."
@@ -5614,7 +5658,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie with your back flat on the floor (or exercise mat) and your legs extended in front of you.",
@@ -5780,7 +5824,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand next to a chair or other support, holding on with one hand.",
@@ -5930,7 +5974,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "machine"
     ],
@@ -5951,7 +5995,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Kneel on the floor or an exercise mat and bend at the waist with your arms extended in front of you (perpendicular to the torso) in order to get into a kneeling push-up position but with the arms spaced at shoulder width. Your head should be looking forward and the bend of the knees should create a 90-degree angle between the hamstrings and the calves. This will be your starting position.",
@@ -5989,7 +6033,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -6009,7 +6053,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -6030,7 +6074,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Hang from a chin-up bar using an underhand grip (palms facing you) that is slightly wider than shoulder width.",
@@ -6050,7 +6094,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Sit on the floor with your knees bent and feet together.",
       "Interlock your fingers behind your head. This will be your starting position.",
@@ -6065,7 +6111,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin in a pushup position on the floor. This will be your starting position.",
@@ -6161,7 +6207,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie on your back with one leg extended above you, with the hip at ninety degrees. Keep the other leg flat on the floor.",
       "Loop a belt, band, or rope over the ball of your foot. This will be your starting position.",
@@ -6176,7 +6224,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "With your back to the wall bend at the waist and place both hands on the floor at shoulder width.",
@@ -6295,7 +6343,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -6318,7 +6366,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Hang from a chin-up bar with both arms extended at arms length in top of you using either a wide grip or a medium grip. The legs should be straight down with the pelvis rolled slightly backwards. This will be your starting position.",
@@ -6335,7 +6383,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Hang from a chin-up bar with your legs and feet together using an overhand grip (palms facing away from you) that is slightly wider than shoulder width. Tip: You may use wrist wraps in order to facilitate holding on to the bar.",
@@ -6413,7 +6461,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Position yourself on your hands and knees on the ground. Maintaining good posture, raise one bent knee off of the ground. This will be your starting position.",
@@ -6465,7 +6513,7 @@
     "secondary_muscles": []
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "bands"
     ],
@@ -6505,7 +6553,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie down on your back and pull both knees up to your chest.",
       "Hold your arms under the knees, not over (that would put to much pressure on your knee joints).",
@@ -6567,7 +6617,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "With someone holding down your legs, slide yourself down to the edge a flat bench until your hips hang off the end of the bench. Tip: Your entire upper body should be hanging down towards the floor. Also, you will be in the same position as if you were on a hyperextension bench but the range of motion will be shorter due to the height of the flat bench vs. that of the hyperextension bench.",
@@ -6619,7 +6669,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand with your feet close together. Keeping your legs straight, stretch down and put your hands on the floor directly in front of you. This will be your starting position.",
@@ -6860,7 +6910,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand facing bench or sturdy elevated platform. Place hands on edge of bench or platform, slightly wider than shoulder width.",
@@ -6879,7 +6929,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
@@ -6920,7 +6970,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
@@ -6942,7 +6992,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
@@ -6964,7 +7014,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
@@ -7033,7 +7083,9 @@
   },
   {
     "category": "strength",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Position a bar in a rack to about waist height. You can also use a smith machine.",
       "Take a wider than shoulder width grip on the bar and position yourself hanging underneath the bar. Your body should be straight with your heels on the ground with your arms fully extended. This will be your starting position.",
@@ -7090,7 +7142,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie face down on the floor, with your arms extended out to your side, palms pressed to the floor. This will be your starting position.",
       "To begin, flex one knee and bring that leg across the back of your body, attempting to touch it to the ground near the opposite hand.",
@@ -7105,7 +7159,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "While either seating or standing, bend your arms at a 90-degree angle and place the palms of your hands together in front of your chest. Tip: Your hands should be open with the palms together and fingers facing forward (perpendicular to your torso).",
@@ -7126,7 +7180,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "With your head and neck in a neutral position (normal position with head erect facing forward), place both of your hands on the front side of your head.",
@@ -7144,7 +7198,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "With your head and neck in a neutral position (normal position with head erect facing forward), place your left hand on the left side of your head.",
@@ -7162,7 +7216,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Assume a push-up position, supporting your weight on your hands and toes while keeping your body straight. Your hands should be just outside of shoulder width. This will be your starting position.",
@@ -7204,7 +7258,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie flat on the floor (or exercise mat) on your back with your arms extended straight back behind your head and your legs extended also. This will be your starting position.",
@@ -7221,7 +7275,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Position your body on the floor in the basic sit-up position; knees to a ninety degree angle with feet flat on the floor and arms either crossed over your chest or to the sides. This will be your starting position.",
@@ -7674,7 +7728,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie down on the floor with your right leg straight. Bend your left leg and lower it across your body, holding the knee down toward the floor with your right hand. (The knee doesn't need to touch the floor if you're tight.)",
       "Place your left arm comfortably beside you and turn your head to the left. Imagine you have a weight tied to your tailbone. let your tailbone fall back toward the floor as your chest reaches in the opposite direction to stretch your lower back. Switch sides."
@@ -7691,7 +7747,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand with your legs together and hands by your waist.",
@@ -7728,7 +7784,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin in a comfortable standing position with your knees slightly bent. Hold your hands in front of you, palms down with your fingertips together at chest height. This will be your starting position.",
@@ -7749,7 +7805,9 @@
   },
   {
     "category": "plyometrics",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "This drill helps increase arm efficiency during the run. Begin kneeling, left foot in front, right knee down. Apply pressure through the front heel to keep your glutes and hamstrings activated.",
       "Begin by blocking the arms in long, pendulum like swings. Close the arm angle, blocking with the arms as you would when jogging, progressing to a run and finally a sprint.",
@@ -7808,7 +7866,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Start by kneeling on a mat with your palms flat and your fingers pointing back toward your knees.",
       "Slowly lean back keeping your palms flat on the floor until you feel a stretch in your wrists and forearms. Hold for 20-30 seconds."
@@ -7840,7 +7900,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Kneel on a mat and bring your right knee up so the bottom of your foot is on the floor and extend your left leg out behind you so the top of your foot is on the floor.",
       "Shift your weight forward until you feel a stretch in your hip. Hold for 15 seconds, then repeat for your other side."
@@ -7895,7 +7957,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -7964,7 +8026,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Assume a half squat position facing 90 degrees from your direction of travel. This will be your starting position.",
@@ -8085,7 +8147,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.",
       "Extend the other leg in the air. If you're tight, you wont be able to straighten it. That's okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).",
@@ -8117,7 +8181,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "While standing up straight with both feet next to each other at around shoulder width, grab a sturdy surface such as the sides of a squat rack or the top of a chair to brace yourself and keep balance.",
@@ -8159,7 +8223,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on an exercise mat with your legs extended and your hands either palms facing down next to you or under your glutes. Tip: My preference is with the hands next to me. This will be your starting position.",
@@ -8327,7 +8391,9 @@
   },
   {
     "category": "plyometrics",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "This drill helps you accelerate as quickly as possible into a sprint from a dead stop. It helps to use a line to start from. Begin with two feet on the line. Place your left foot with the toe next to your right ankle. Place your right foot 4-6 inches behind the left.",
       "Place your right hand onto the line, and thing bring your nose close to your left knee.",
@@ -8345,7 +8411,9 @@
   },
   {
     "category": "plyometrics",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lean at around 45 degrees against a wall. Your feet should be together, glutes contracted.",
       "Begin by lifting your right knee quickly, pausing, and then driving it straight down into the ground.",
@@ -8432,7 +8500,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Kneel on the floor, holding your heels with both hands.",
       "Lift your buttocks up and forward while bringing your head back to look up at the ceiling, to give an arch in your back."
@@ -8521,7 +8591,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on your stomach with your arms out to your sides. This will be your starting position.",
@@ -8691,7 +8761,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on your back with your legs extended.",
@@ -8762,7 +8832,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on your back with your partner kneeling beside you.",
@@ -8874,7 +8944,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lay face down on the floor with your partner kneeling beside you. Flex one knee and raise that leg off the ground, attempting to touch your glutes with your foot. Your partner should hold the knee and ankle. This will be your starting position.",
@@ -9138,7 +9208,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand so your feet are shoulder width apart and your hands are on your hips.",
       "Twist at your waist until you feel a stretch. Hold for 10 to 15 seconds, then twist to the other side."
@@ -9192,7 +9264,9 @@
   },
   {
     "category": "plyometrics",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Begin in a pushup position, with your weight supported by your hands and toes. Flexing the knee and hip, bring one leg until the knee is approximately under the hip. This will be your starting position.",
       "Explosively reverse the positions of your legs, extending the bent leg until the leg is straight and supported by the toe, and bringing the other foot up with the hip and knee flexed. Repeat in an alternating fashion for 20-30 seconds."
@@ -9209,7 +9283,9 @@
   },
   {
     "category": "plyometrics",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "This move helps prepare your running form to help you excel at sprinting. As you run, be sure to flex the knee, aiming to kick your glutes as the hip extends.",
       "Reload the quad as the leg moves back forward, attacking the ground on the next step.",
@@ -9344,7 +9420,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Using the leg pad of a lat pulldown machine or a preacher bench, position yourself so that your ankles are under the pads, knees on the seat, and you are facing away from the machine. You should be upright and maintaining good posture.",
@@ -9401,7 +9477,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put one hand beside your head and the other to the side against the floor.",
@@ -9421,7 +9497,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.",
@@ -9475,7 +9551,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Start off by lying on your right side, with your right knee bent at a 90-degree angle resting on the floor in front of you (this stabilizes the torso).",
       "Bend your left knee behind you and hold your left foot with your left hand. To stretch your hip flexor, press your left hip forward as you push your left foot back into your hand. Switch sides."
@@ -9957,7 +10035,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "From a standing position, place a bent arm against a wall or doorway.",
       "Slowly lean toward your arm until you feel a stretch in your lats."
@@ -10117,7 +10197,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie facedown on the floor.",
       "Put your left hand under your left hipbone to pad your hip and pubic bone.",
@@ -10152,7 +10234,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Start off by lying on the floor.",
       "Extend one leg straight and pull the other knee to your chest. Hold under the knee joint to protect the kneecap.",
@@ -10317,7 +10401,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Standing straight up, lace your fingers together and open your palms to the ceiling. Keep your shoulders down as you extend your arms up.",
       "To create a full torso stretch, pull your tailbone down and stabilize your torso as you do this. Stretch the muscles on both the front and the back of the torso."
@@ -10336,7 +10422,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Sit upright on the floor with your partner behind you. Raise one arm straight up, and flex the elbow, attempting to touch your hand to your back. Your parner should hold your elbow and wrist. This will be your starting position.",
@@ -10502,7 +10588,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie down with your feet on the floor, heels directly under your knees.",
       "Lift only your tailbone to the ceiling to stretch your lower back. (Don't lift the entire spine yet.) Pull in your stomach.",
@@ -10563,7 +10651,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -10605,7 +10693,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Get into a prone position on the floor, supporting your weight on your toes and your forearms. Your arms are bent and directly below the shoulder.",
@@ -10717,7 +10805,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Move into a prone position on the floor, supporting your weight on your hands and toes.",
@@ -10999,7 +11087,9 @@
   },
   {
     "category": "strength",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",
       "To begin, flex the knee to curl your leg up. Your partner should provide resistance, starting light and increasing the pressure as the movement is completed. Communicate with your partner to monitor appropriate resistance levels.",
@@ -11054,7 +11144,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Grab the pull-up bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
@@ -11075,7 +11165,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "With your hands wide apart, support your body on your toes and hands in a plank position. Your elbows should be extended and your body straight. Do not allow your hips to sag. This will be your starting position.",
@@ -11096,7 +11186,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms' length.",
@@ -11116,7 +11206,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.",
@@ -11193,7 +11283,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Get into pushup position on the toes with your hands just outside of shoulder width.",
@@ -11215,7 +11305,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.",
@@ -11235,7 +11325,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie on the floor face down and body straight with your toes on the floor and the hands wider than shoulder width for a wide hand position and closer than shoulder width for a close hand position. Make sure you are holding your torso up at arms length.",
@@ -11339,7 +11429,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -11361,7 +11451,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -11384,7 +11474,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Place yourself on your hands knees on an exercise mat. Your head should be looking forward and the bend of the knees should create a 90-degree angle between the hamstrings and the calves. This will be your starting position.",
@@ -11438,7 +11528,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -11461,7 +11551,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -11486,7 +11576,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -11511,7 +11601,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -11534,7 +11624,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -11621,7 +11711,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie down on the floor with your legs fully extended and arms to the side of your torso with the palms on the floor. Your arms should be stationary for the entire exercise.",
@@ -11879,7 +11969,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
@@ -12102,7 +12192,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "It's easiest to get into this stretch if you start standing up, put one leg behind you, and slowly lower your torso down to the floor.",
       "Keep the front heel on the floor (if it lifts up, scoot your other leg further back).",
@@ -12138,7 +12230,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
@@ -12185,7 +12277,9 @@
   },
   {
     "category": "strength",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Take a pronated grip on a pull-up bar.",
       "From a hanging position, raise yourself a few inches without using your arms. Do this by depressing your shoulder girdle in a reverse shrugging motion.",
@@ -12203,7 +12297,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.",
@@ -12221,7 +12315,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
@@ -12355,7 +12449,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
@@ -12433,7 +12527,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Sit up straight on an exercise mat.",
       "Bend one knee and put that foot on the floor to stabilize the torso.",
@@ -12568,7 +12664,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Sit on a bench with the legs stretched out in front of you slightly below parallel and your arms holding on to the sides of the bench. Your torso should be leaning backwards around a 45-degree angle from the bench. This will be your starting position.",
@@ -12584,7 +12680,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Sit on a mat with your right leg extended in front of you and your left leg bent with your foot against your right inner thigh.",
       "Lean forward from your hips and reach for your ankle until you feel a stretch in your hamstring. Hold for 15 seconds, then repeat for your other side."
@@ -12600,7 +12698,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Sit upright on the floor with your legs bent, your partner standing behind you. Stick your arms straight out to your sides, with your palms facing the ground. Attempt to move them as far behind you as possible, as your assistant holds your wrists. This will be your starting position.",
@@ -12618,7 +12716,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "In a seated position with your knees bent, cross one ankle over the opposite knee. Your partner will stand behind you. Now, lean forward as your partner braces your shoulders with their hands. This will be your starting position.",
@@ -12634,7 +12732,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -12654,7 +12752,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "In a seated position with your legs extended, have your partner stand behind you. Now, lean forward as your partner braces your shoulders with their hands. This will be your starting position.",
       "Attempt to push your torso back for 10-20 seconds, as your partner prevents any actual movement of your torso.",
@@ -12725,7 +12825,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Sit on a bench with the legs stretched out in front of you slightly below parallel and your arms holding on to the sides of the bench. Your torso should be leaning backwards around a 45-degree angle from the bench. This will be your starting position.",
@@ -12802,7 +12902,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Sit up straight on an exercise mat.",
       "Touch the soles of your feet together with your feet six to eight inches in front of your hips.",
@@ -12950,7 +13052,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you're seated), gently roll your shoulders forward, up, back, and down.",
       "Reverse direction. You can do this exercise alternating shoulders or both at the same time."
@@ -12983,7 +13087,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
     ],
@@ -12997,7 +13103,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Reach your left arm across your body and hold it straight."
     ],
@@ -13009,7 +13117,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "First lie on your left side, bending your left knee in front of you to stabilize your torso (use your abdominal muscles as well to hold you upright).",
       "Straighten your right leg and rest the right foot on the floor behind your left. Straighten your right arm over your head and gently pull on your right wrist to stretch the entire right side of the body. Switch sides."
@@ -13023,7 +13133,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [],
     "name": "Side Bridge",
@@ -13058,7 +13168,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [],
     "name": "Side Jackknife",
@@ -13108,7 +13218,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand next to a chair, which you may hold onto as a support. Stand on one leg. This will be your starting position.",
@@ -13123,7 +13233,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Start off by lying on your right side and bend your right knee in front of you to stabilize the torso.",
       "Rest your head on your right hand or shoulder. Lift your left leg upward and hold it by the back of the knee (easier) or the foot (harder).",
@@ -13139,7 +13251,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
       "Assist stretch with a gentle pull on the side of the head."
@@ -13152,7 +13266,9 @@
   },
   {
     "category": "plyometrics",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Begin standing with your feet hip width apart in an athletic stance. Your head and chest should be up, knees and hips slightly bent. This will be your starting position.",
       "Leaning to your right, extend through your hips, knees, and ankles to jump into the air. Block with the arms to lead the movement, jumping as far to your right as you can.",
@@ -13195,7 +13311,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "This stretch works best standing. Cross your left arm over the midline of your body and hold the left wrist in your right hand down at the level of your hips. Start the stretch with a bent left arm.",
       "Slowly straighten, pull, and lift it up to shoulder height, as pictured. Feel this stretch originate in your back, not your shoulders, and don't pull too hard on the shoulders joint. Switch sides."
@@ -13271,7 +13389,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin laying prone on the ground. Move yourself into a position supporting your weight on your toes and one arm. Your working arm should be placed directly under the shoulder, fully extended. Your legs should be extended, and for this movement you may need a wider base, placing your feet further apart than in a normal push-up.",
@@ -13431,7 +13549,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin by standing on one leg, with the bent knee raised. This will be your start position.",
@@ -13451,7 +13569,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lay on the floor with your feet flat and knees bent.",
@@ -13489,7 +13607,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
@@ -13506,7 +13624,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand with your feet shoulder width apart. This will be your starting position.",
       "Begin the movement by flexing your knees and hips, sitting back with your hips.",
@@ -14241,7 +14361,7 @@
     "secondary_muscles": []
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -14309,7 +14429,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin in a prone position on the floor. Support your weight on your hands and toes, with your feet together and your body straight. Your arms should be bent to 90 degrees. This will be your starting position.",
@@ -14348,7 +14468,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Sit in a chair so your back is straight and your feet planted on the floor.",
       "Interlace your fingers behind your head, elbows out and your chin down.",
@@ -14418,7 +14540,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
@@ -14488,7 +14610,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",
       "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."
@@ -14526,7 +14650,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -14549,7 +14673,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -15043,7 +15167,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Place your right heel on a step with your knee extended and lean forward to grab your right toe with your right hand. Your left knee should be slightly bent and your back should be straight.",
       "Support your weight on your left leg and place your left hand on your left thigh.",
@@ -15076,7 +15202,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin standing on one leg, holding to a vertical support.",
@@ -15094,7 +15220,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand up straight with the spine vertical, the left foot slightly in front of the right.",
       "Bend both knees and lift the back heel off the floor as you press the right hip forward. You can't get a thorough, deep stretch in this position, however, because it's hard to relax the hip flexor and stand on it at the same time. Switch sides."
@@ -15127,7 +15255,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Take a slightly wider than hip distance stance with your knees slightly bent.",
       "Place your right hand on your right hip to support the spine.",
@@ -15161,7 +15291,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.",
@@ -15403,7 +15533,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Start off with your feet hip-distance apart.",
       "Bend your knees slightly to keep them soft and springy.",
@@ -15436,7 +15568,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand with your feet hip-distance apart, one foot slightly in front of the other.",
       "Bend both knees, keeping your back heel on the floor. Switch sides."
@@ -15449,7 +15583,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Stand with some space in front and behind you.",
       "Bend at the waist, keeping your legs straight, until you can relax and let your upper body hang down in front of you. Let your arms and hands hang down naturally. Hold for 10 to 20 seconds."
@@ -15465,7 +15601,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "To begin, stand up with both arms fully extended above the head holding one end of a towel with both hands. Your elbows should be in and the arms perpendicular to the floor with the palms facing each other while your feet should be shoulder width apart from each other. This is the starting position.",
@@ -15501,7 +15637,7 @@
   {
     "category": "plyometrics",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
@@ -15522,7 +15658,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Stand facing a box or bench of an appropriate height with your feet together. This will be your starting position.",
@@ -15624,7 +15760,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.",
@@ -15741,7 +15877,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -15766,7 +15902,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -15792,7 +15928,7 @@
     ]
   },
   {
-    "category": "powerlifting",
+    "category": "strength",
     "equipment": [
       "barbell"
     ],
@@ -15821,7 +15957,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "To begin, lie straight and face down on the floor or exercise mat. Your arms should be fully extended in front of you. This is the starting position.",
@@ -16065,7 +16201,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Begin in a seated, upright position. Start by extending your legs in front of you in a V.",
       "With your hands on the floor, lean forward as far as possible. Hold for 10 to 20 seconds."
@@ -16147,7 +16285,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
@@ -16180,7 +16318,9 @@
   },
   {
     "category": "cardio",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Running or hiking on trails will get the blood pumping and heart beating almost immediately. Make sure you have good shoes. While you use the muscles in your calves and buttocks to pull yourself up a hill, the knees, joints and ankles absorb the bulk of the pounding coming back down. Take smaller steps as you walk downhill, keep your knees bent to reduce the impact and slow down to avoid falling.",
       "A 150 lb person can burn over 200 calories for 30 minutes walking uphill, compared to 175 on a flat surface. If running the trail, a 150 lb person can burn well over 500 calories in 30 minutes."
@@ -16234,7 +16374,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Bring right arm across your body and over your left shoulder, holding your elbow with your left hand, until you feel a stretch in your tricep. Then repeat for your other arm."
     ],
@@ -16319,7 +16461,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Reach your hand behind your head, grasp your elbow and gently pull. Hold for 10 to 20 seconds, then switch sides."
     ],
@@ -16334,7 +16478,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
@@ -16467,7 +16611,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "While seated, bend forward to hug your thighs from underneath with both arms.",
       "Keep your knees together and your legs extended out as you bring your chest down to your knees. You can also stretch your middle back by pulling your back away from your knees as your hugging them."
@@ -16483,7 +16629,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Clasp fingers together with your thumbs pointing down, round your shoulders as you reach your hands forward."
     ],
@@ -16554,7 +16702,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Extend both hands straight above your head, palms touching.",
       "Slowly push your hands up and back, keeping your back straight."
@@ -16594,7 +16744,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Start by placing the middle of the V-bar in the middle of the pull-up bar (assuming that the pull-up station you are using does not have neutral grip handles). The V-Bar handles will be facing down so that you can hang from the pull-up bar through the use of the handles.",
@@ -16946,7 +17096,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Grab the pull-up bar with the palms facing forward using a wide grip.",
@@ -17029,7 +17179,7 @@
   {
     "category": "strength",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Hang from a pull-up bar using a pronated grip. Your arms and legs should be extended. This will be your starting position.",
@@ -17045,7 +17195,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "Lie on your back with your arms extended out to the sides and your legs straight. This will be your starting position.",
       "Lift one leg and quickly cross it over your body, attempting to touch the ground near the opposite hand.",
@@ -17063,7 +17215,9 @@
   },
   {
     "category": "stretching",
-    "equipment": [],
+    "equipment": [
+      "none"
+    ],
     "instructions": [
       "This is a three-part stretch. Begin by lunging forward, with your front foot flat on the ground and on the toes of your back foot. With your knees bent, squat down until your knee is almost touching the ground. Keep your torso erect, and hold this position for 10-20 seconds.",
       "Now, place the arm on the same side as your front leg on the ground, with the elbow next to the foot. Your other hand should be placed on the ground, parallel to your lead leg, to help support you during this portion of the stretch.",
@@ -17082,7 +17236,7 @@
   {
     "category": "stretching",
     "equipment": [
-      "none (bodyweight exercise)"
+      "none"
     ],
     "instructions": [
       "Start by standing straight with your feet being shoulder width apart from each other. Elevate your arms to the side of you until they are fully extended and parallel to the floor at a height that is evenly aligned with your shoulders. Tip: Your torso and arms should form the letter \"T: Your palms should be facing down. This is the starting position.",
