@@ -13081,8 +13081,10 @@
     },
     {
       "category": "strength",
+      "description": "Seated triceps press peformed with a bench and an overhead dumbbell",
       "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "bench"
       ],
       "instructions": [
         "Sit down on a bench with back support and grasp a dumbbell with both hands and hold it overhead at arm's length. Tip: a better way is to have somebody hand it to you especially if it is very heavy. The resistance should be resting in the palms of your hands with your thumbs around it. The palm of the hand should be facing inward. This will be your starting position.",
@@ -13094,7 +13096,8 @@
       "primary_muscles": [
         "triceps"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [],
+      "variation_id": 18
     },
     {
       "category": "strength",
@@ -20498,25 +20501,6 @@
       ],
       "secondary_muscles": [],
       "variation_id": null
-    },
-    {
-      "description": "<p>Sit down on a back (better with back support). Take a dumbbell firmly with both hands and hold it with extended arms over your head. With your palms facing upward and holding the weight of the dumbbell, slowly lower the weight behind your head.</p>\n<p>\u00a0</p>",
-      "equipment": [
-        "bench",
-        "dumbbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 4",
-        "short_name": "CC-BY-SA 4",
-        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-      },
-      "license_author": "richmr2174@gmail.com",
-      "name": "Seated Triceps Press",
-      "primary_muscles": [
-        "triceps"
-      ],
-      "secondary_muscles": [],
-      "variation_id": 18
     },
     {
       "description": "<p>Find a nice flat piece of wall and stand with your back leaning against the wall. Slowly slide down the wall while moving your feet away from it, until your thighs are parallel to the ground and both your knees and your hips are bent at a 90\u00b0 angle. Cross your arms in front of your chest and hold this position for 30 seconds.</p>\n<p>Variant: put a big inflated rubber ball (like a small basketball) between your knees and squeeze the ball while holding the squat position</p>",
