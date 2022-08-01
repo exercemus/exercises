@@ -41,6 +41,7 @@ equipment = [
     'cable',
     'bands',
     'foam roll',
+    'other',
 ]
 muscles = [
     'forearms',
