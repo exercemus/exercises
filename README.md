@@ -5,11 +5,10 @@
 After struggling to find an easy-to-use, open source exercise list for exercemus, I decided to curate this open source list. The initial list was created from wger.de and exercises.json (big thanks to these projects). In the future, as exercises are modified and submitted to exercemus by users, they will open automated PRs and be added to this repository for all to enjoy. It is my personal belief that data like that provided here should be readily accessible by all.
 
 You can use the latest exercise data directly in your code from here (yes, it is really this simple):
-https://raw.githubusercontent.com/exercemus/exercises/main/exercises-minified.json
+https://raw.githubusercontent.com/exercemus/exercises/minified/minified-exercises.json
 
 ## NOTICE
 This list is still a WIP, so please expect duplicates and slightly broken schema (until ~September 2022) until I can manually review and fix all the data. However, feel free to use the data as-is. Anticipated changes:
-- Dev ops: automatic minification in a separate branch (minified file will move branches)
 - `instructions` not nullable after all merges?
 
 ## Format

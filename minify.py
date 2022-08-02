@@ -13,4 +13,4 @@ def write_compressed(filename, data):
 
 if __name__ == '__main__':
     data = read_data('exercises.json')
-    write_compressed('exercises-minified.json', data)
+    write_compressed('minified-exercises.json', data)
