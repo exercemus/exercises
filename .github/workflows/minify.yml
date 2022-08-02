@@ -13,10 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: python3 minify.py
-      - run: cp minified-exercises.json /tmp
-      - run: git checkout origin/minified
-      - run: mv /tmp/minified-exercises.json .
-      - run: git add minified-exercises.json
-      - run: git commit -m "Minified new exercises.json"
-      - run: git push
+        with:
+          fetch-depth: 0
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          python3 minify.py
+          cp minified-exercises.json /tmp
+          git checkout minified
+          mv /tmp/minified-exercises.json .
+          git add minified-exercises.json
+          git commit -m "Minified new exercises.json"
+          git push
