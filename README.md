@@ -7,10 +7,6 @@ After struggling to find an easy-to-use, open source exercise list for exercemus
 You can use the latest exercise data directly in your code from here (yes, it is really this simple):
 https://raw.githubusercontent.com/exercemus/exercises/minified/minified-exercises.json
 
-## NOTICE
-This list is still a WIP, so please expect duplicates and slightly broken schema (until ~September 2022) until I can manually review and fix all the data. However, feel free to use the data as-is. Anticipated changes:
-- `instructions` not nullable after all merges?
-
 ## Format
 `exercises.json` has the following fields:
 - `categories`, a `list<string>` which defines the different exercise categories
@@ -25,7 +21,7 @@ Each `exercise` has the following schema:
 - `name`, as a `string` with no underscores and (url safe) characters
 - `aliases` as a `list<string>?` for other names of the exercise
 - `description` as a `string?`
-- `instructions` as a `list<string>?`
+- `instructions` as a `list<string>`
 - `tips` as a `list<string>?`
 - `equipment` as a `list<string>`
 - `primary_muscles` as a `list<string>`
