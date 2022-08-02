@@ -9,13 +9,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  build_and_deploy:
+  minify:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - run: python3 minify.py
       - run: cp minified-exercises.json /tmp
-      - run: git checkout minified
+      - run: git checkout origin/minified
       - run: mv /tmp/minified-exercises.json .
       - run: git add minified-exercises.json
       - run: git commit -m "Minified new exercises.json"
