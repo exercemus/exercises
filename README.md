@@ -34,7 +34,7 @@ Each `exercise` has the following schema:
 - `tempo` as a `string?` (`3-1-1-0`, for example)
 - `images` as a `list<string>?` of urls
 - `video` as a `string?` url (embeddable YouTube videos used when possible)
-- `variation_on` as a `list<string>`
+- `variation_on` as a `list<string>?`
   - Example 1: Close-Grip Incline Bench Press is both a variation on `close-grip bench press` and also `incline bench press`)
   - Example 2: Zottman Preacher Curl is both a variation on `zottman curl` and `preacher curl`
 - `license_author` as a `string?` (wger-specific: who submitted the exercise online on wger)

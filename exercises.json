@@ -218,8 +218,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=zC3nLlEvin4",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=zC3nLlEvin4"
     },
     {
       "category": "strength",
@@ -837,18 +839,25 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=xtb-gltsmMU",
-      "variation_id": 18
+      "variation_on": [
+        "skullcrusher"
+      ],
+      "video": "https://www.youtube.com/watch?v=xtb-gltsmMU"
     },
     {
-      "category": "strength",
-      "description": "Skullcrusher performed with dumbbells",
       "aliases": [
         "Dumbbell French Press"
       ],
+      "category": "strength",
+      "description": "Skullcrusher performed with dumbbells",
       "equipment": [
         "dumbbell",
         "bench"
+      ],
+      "instructions": [
+        "Hold the dumbbells and lay down on a flat bench in such a way that around 1/4 of your head is over the edge.",
+        "Stretch your arms with the weights and bend them so that the dumbbells are lowered (make sure they don't touch each other).",
+        "Just before they touch your forehead, push them up."
       ],
       "license": {
         "full_name": "Creative Commons Attribution Share Alike 3",
@@ -856,14 +865,6 @@
         "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
       },
       "license_author": "wger.de",
-      "instructions": [
-        "Hold the dumbbells and lay down on a flat bench in such a way that around 1/4 of your head is over the edge.",
-        "Stretch your arms with the weights and bend them so that the dumbbells are lowered (make sure they don't touch each other).",
-        "Just before they touch your forehead, push them up."
-      ],
-      "tips": [
-        "Pay attention to your elbows and arms: only the triceps are doing the work, the rest of the arms should not move"
-      ],
       "name": "Dumbbell Skullcrusher",
       "primary_muscles": [
         "triceps"
@@ -871,8 +872,13 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=ir5PsbniVSc",
-      "variation_id": 18
+      "tips": [
+        "Pay attention to your elbows and arms: only the triceps are doing the work, the rest of the arms should not move"
+      ],
+      "variation_on": [
+        "skullcrusher"
+      ],
+      "video": "https://www.youtube.com/watch?v=ir5PsbniVSc"
     },
     {
       "category": "strength",
@@ -943,10 +949,10 @@
     },
     {
       "category": "strength",
+      "description": "A biceps curl performed with a barbell",
       "equipment": [
         "barbell"
       ],
-      "description": "A biceps curl performed with a barbell",
       "instructions": [
         "Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position.",
         "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move.",
@@ -962,8 +968,10 @@
         "brachialis",
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=LY1V6UbRHFM",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=LY1V6UbRHFM"
     },
     {
       "category": "strength",
@@ -1517,7 +1525,9 @@
         "chest",
         "shoulders"
       ],
-      "variation_id": 19
+      "variation_on": [
+        "dip"
+      ]
     },
     {
       "category": "plyometrics",
@@ -1557,9 +1567,6 @@
         "As you breathe out, bring the handles up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly.",
         "Repeat the movement for the prescribed amount of repetitions of your training program."
       ],
-      "tips": [
-        "It should take at least twice as long to go down than to come up."
-      ],
       "name": "Band Bench Press",
       "primary_muscles": [
         "chest"
@@ -1567,6 +1574,9 @@
       "secondary_muscles": [
         "shoulders",
         "triceps"
+      ],
+      "tips": [
+        "It should take at least twice as long to go down than to come up."
       ],
       "variation_on": [
         "flat bench press",
@@ -2281,11 +2291,11 @@
       ]
     },
     {
-      "category": "strength",
-      "description": "Chest fly performed on a machine",
       "aliases": [
         "Machine Butterfly"
       ],
+      "category": "strength",
+      "description": "Chest fly performed on a machine",
       "equipment": [
         "machine"
       ],
@@ -2296,14 +2306,14 @@
         "Return back to the starting position slowly as you inhale until your chest muscles are fully stretched.",
         "Repeat for the recommended amount of repetitions."
       ],
-      "tips": [
-        "Your upper arms should be positioned parallel to the floor; adjust the machine accordingly."
-      ],
       "name": "Machine Chest Fly",
       "primary_muscles": [
         "chest"
       ],
       "secondary_muscles": [],
+      "tips": [
+        "Your upper arms should be positioned parallel to the floor; adjust the machine accordingly."
+      ],
       "variation_on": [
         "chest fly"
       ]
@@ -2415,8 +2425,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=1Quc_tOv97I",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=1Quc_tOv97I"
     },
     {
       "category": "strength",
@@ -3546,11 +3558,11 @@
         "chest",
         "shoulders"
       ],
-      "video": "https://www.youtube.com/watch?v=XEnAUu6WtSw",
       "variation_on": [
         "flat bench press",
         "close-grip bench press"
-      ]
+      ],
+      "video": "https://www.youtube.com/watch?v=XEnAUu6WtSw"
     },
     {
       "category": "strength",
@@ -3795,8 +3807,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=zC3nLlEvin4",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=zC3nLlEvin4"
     },
     {
       "category": "strength",
@@ -4069,10 +4083,10 @@
       ]
     },
     {
-      "category": "strength",
       "aliases": [
         "Negative Crunch"
       ],
+      "category": "strength",
       "equipment": [
         "bench"
       ],
@@ -4314,7 +4328,9 @@
         "chest",
         "shoulders"
       ],
-      "variation_id": 19
+      "variation_on": [
+        "dip"
+      ]
     },
     {
       "category": "strength",
@@ -4337,8 +4353,10 @@
         "triceps",
         "abs"
       ],
-      "video": "https://www.youtube.com/watch?v=sM6XUdt1rm4",
-      "variation_id": 19
+      "variation_on": [
+        "dip"
+      ],
+      "video": "https://www.youtube.com/watch?v=sM6XUdt1rm4"
     },
     {
       "category": "strength",
@@ -4361,8 +4379,10 @@
         "shoulders",
         "abs"
       ],
-      "video": "https://www.youtube.com/watch?v=sM6XUdt1rm4",
-      "variation_id": 19
+      "variation_on": [
+        "dip"
+      ],
+      "video": "https://www.youtube.com/watch?v=sM6XUdt1rm4"
     },
     {
       "category": "strength",
@@ -4658,8 +4678,10 @@
         "brachialis",
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
     },
     {
       "category": "strength",
@@ -5232,15 +5254,17 @@
       "secondary_muscles": [
         "brachialis"
       ],
-      "video": "https://www.youtube.com/watch?v=zG2xJ0Q5QtI",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=zG2xJ0Q5QtI"
     },
     {
-      "category": "strength",
-      "description": "Skullcrusher performed with an ez-bar",
       "aliases": [
         "French Press"
       ],
+      "category": "strength",
+      "description": "Skullcrusher performed with an ez-bar",
       "equipment": [
         "ez curl bar",
         "bench"
@@ -5258,8 +5282,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=d_KZxkY_0cM",
-      "variation_id": 18
+      "variation_on": [
+        "skullcrusher"
+      ],
+      "video": "https://www.youtube.com/watch?v=d_KZxkY_0cM"
     },
     {
       "category": "stretching",
@@ -6329,8 +6355,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=zC3nLlEvin4",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=zC3nLlEvin4"
     },
     {
       "category": "strength",
@@ -7059,8 +7087,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=zC3nLlEvin4",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=zC3nLlEvin4"
     },
     {
       "category": "strength",
@@ -12119,7 +12149,9 @@
         "shoulders",
         "abs"
       ],
-      "variation_id": 19
+      "variation_on": [
+        "dip"
+      ]
     },
     {
       "category": "plyometrics",
@@ -13143,7 +13175,9 @@
         "triceps"
       ],
       "secondary_muscles": [],
-      "variation_id": 18
+      "variation_on": [
+        "skullcrusher"
+      ]
     },
     {
       "category": "strength",
@@ -16585,10 +16619,10 @@
         "triceps"
       ],
       "secondary_muscles": [],
-      "video": "https://www.youtube.com/watch?v=2-LAMcpzODU",
       "variation_on": [
         "triceps extension"
-      ]
+      ],
+      "video": "https://www.youtube.com/watch?v=2-LAMcpzODU"
     },
     {
       "category": "strength",
@@ -16684,8 +16718,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=DoCWeUBA0Gs",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=DoCWeUBA0Gs"
     },
     {
       "category": "strength",
@@ -17042,7 +17078,9 @@
         "chest",
         "shoulders"
       ],
-      "variation_id": 19
+      "variation_on": [
+        "dip"
+      ]
     },
     {
       "category": "strength",
@@ -17535,8 +17573,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=ZrpRBgswtHs",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=ZrpRBgswtHs"
     },
     {
       "category": "strength",
@@ -17560,8 +17600,10 @@
       "secondary_muscles": [
         "forearms"
       ],
-      "video": "https://www.youtube.com/watch?v=prfNS4YiAqU",
-      "variation_id": 16
+      "variation_on": [
+        "curl"
+      ],
+      "video": "https://www.youtube.com/watch?v=prfNS4YiAqU"
     }
   ],
   "exercises_to_merge": [
