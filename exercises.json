@@ -30,6 +30,7 @@
   "exercises": [
     {
       "category": "strength",
+      "description": "Sit-Up performed 3/4 of the way up",
       "equipment": [
         "none"
       ],
@@ -44,7 +45,11 @@
       "primary_muscles": [
         "abs"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [],
+      "video": "https://www.youtube.com/watch?v=wm47Swzn_98",
+      "variations_on": [
+        "sit-up"
+      ]
     },
     {
       "category": "stretching",
