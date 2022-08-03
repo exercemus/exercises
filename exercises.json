@@ -934,7 +934,7 @@
         "Repeat the movement for the prescribed amount of repetitions.",
         "When you are done, place the bar back in the rack."
       ],
-      "name": "Medium-Grip Barbell Bench Press",
+      "name": "Barbell Bench Press",
       "primary_muscles": [
         "chest"
       ],
@@ -1140,7 +1140,7 @@
         "Repeat the movement for the prescribed amount of repetitions.",
         "When you are done, place the bar back in the rack."
       ],
-      "name": "Medium-Grip Barbell Incline Bench Press",
+      "name": "Barbell Incline Bench Press",
       "primary_muscles": [
         "chest"
       ],
@@ -4039,8 +4039,10 @@
     },
     {
       "category": "strength",
+      "description": "Decline bench press performed with a medium grip on a barbell",
       "equipment": [
-        "barbell"
+        "barbell",
+        "bench"
       ],
       "instructions": [
         "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
@@ -4050,13 +4052,17 @@
         "Repeat the movement for the prescribed amount of repetitions.",
         "When you are done, place the bar back in the rack."
       ],
-      "name": "Decline Barbell Bench Press",
+      "name": "Barbell Decline Bench Press",
       "primary_muscles": [
         "chest"
       ],
       "secondary_muscles": [
         "shoulders",
         "triceps"
+      ],
+      "variation_on": [
+        "decline bench press",
+        "medium-grip bench press"
       ]
     },
     {
@@ -4109,8 +4115,10 @@
     },
     {
       "category": "strength",
+      "description": "Decline bench press performed with a dumbbells",
       "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "bench"
       ],
       "instructions": [
         "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
@@ -4120,13 +4128,17 @@
         "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up..",
         "Repeat the movement for the prescribed amount of repetitions of your training program."
       ],
-      "name": "Decline Dumbbell Bench Press",
+      "name": "Dumbbell Decline Bench Press",
       "primary_muscles": [
         "chest"
       ],
       "secondary_muscles": [
         "shoulders",
         "triceps"
+      ],
+      "variation_on": [
+        "decline bench press",
+        "medium-grip bench press"
       ]
     },
     {
@@ -12695,6 +12707,7 @@
     },
     {
       "category": "strength",
+      "description": "Seated calf raise performed on a machine",
       "equipment": [
         "machine"
       ],
@@ -12706,11 +12719,16 @@
         "Raise the heels by extending the ankles as high as possible as you contract the calves and breathe out. Hold the top contraction for a second.",
         "Repeat for the recommended amount of repetitions."
       ],
-      "name": "Seated Calf Raise",
+      "name": "Seated Machine Calf Raise",
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "stretching",
@@ -15182,6 +15200,7 @@
     },
     {
       "category": "strength",
+      "description": "Standing calf raise performed on a machine",
       "equipment": [
         "machine"
       ],
@@ -15192,11 +15211,16 @@
         "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
         "Repeat for the recommended amount of repetitions."
       ],
-      "name": "Standing Calf Raises",
+      "name": "Standing Machine Calf Raise",
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -15219,6 +15243,7 @@
     },
     {
       "category": "strength",
+      "description": "Standing calf raise performed with dumbbells",
       "equipment": [
         "dumbbell"
       ],
@@ -15232,7 +15257,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -17607,112 +17637,6 @@
     }
   ],
   "exercises_to_merge": [
-    {
-      "description": "<p>The movement is the same as with a regular butterfly, only that the grip is narrow:</p>\n<p>Sit on the butterfly machine, the feet have a good contact with the floor, the upper arms are parallel to the floor. Press your arms together till the handles are practically together (but aren't!). Go slowly back. The weights should stay all the time in the air.</p>",
-      "equipment": [],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Butterfly Narrow Grip",
-      "primary_muscles": [
-        "chest"
-      ],
-      "secondary_muscles": [],
-      "variation_id": null
-    },
-    {
-      "description": "<p>Lay down on a decline bench, the bar should be directly above your eyes, the knees are somewhat angled and the feet are firmly on the floor. Concentrate, breath deeply and grab the bar more than shoulder wide. Bring it slowly down till it briefly touches your chest at the height of your nipples. Push the bar up.</p>",
-      "equipment": [
-        "barbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Decline Bench Press Barbell",
-      "primary_muscles": [
-        "chest"
-      ],
-      "secondary_muscles": [],
-      "variation_id": 7
-    },
-    {
-      "description": "<p>Take two dumbbells and sit on a decline bench, the feet are firmly on the floor, the head is resting the bench. Hold the weights next to the chest, at the height of your nipples and press them up till the arms are stretched. Let the weight slowly and controlled down.</p>",
-      "equipment": [
-        "dumbbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Decline Bench Press Dumbbell",
-      "primary_muscles": [
-        "chest"
-      ],
-      "secondary_muscles": [],
-      "variation_id": 7
-    },
-    {
-      "description": "<p>Get onto the calf raises machine, you should able to completely push your calves down. Stand straight, don't make a hollow back and don't bend your legs. Pull yourself up as high as you can. Make a small pause of 1 - 2 seconds and go slowly down.</p>",
-      "equipment": [],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Standing Calf Raises",
-      "primary_muscles": [
-        "calves"
-      ],
-      "secondary_muscles": [
-        "soleus"
-      ],
-      "variation_id": 6
-    },
-    {
-      "description": "<p>Sit on a bench for calf raises and check that the feet are half free and that you can completely stretch the calf muscles down. Pull your calves up, going as far (up) as you can. Make at the highest point a short pause of 1 or 2 seconds and go down.</p>",
-      "equipment": [],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Sitting Calf Raises",
-      "primary_muscles": [
-        "soleus"
-      ],
-      "secondary_muscles": [
-        "calves"
-      ],
-      "variation_id": 6
-    },
-    {
-      "description": "<p>Place yourself on the machine with your back firmly against the backrest, the feet are on the platform for calf raises. Check that the feet are half free and that you can completely stretch the calf muscles down.</p>\n<p>With straight knees pull up your weight as much as you can. Go with a fluid movement down till the calves are completely stretched. Repeat.</p>",
-      "equipment": [],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Calf Raises on Hackenschmitt Machine",
-      "primary_muscles": [
-        "calves"
-      ],
-      "secondary_muscles": [
-        "soleus"
-      ],
-      "variation_id": 6
-    },
     {
       "description": "<p>Stand firmly, with your feet slightly more than shoulder wide apart. Stand directly behind the bar where it should barely touch your shin, your feet pointing a bit out. Bend down with a straight back, the knees also pointing somewhat out. Grab the bar with a shoulder wide grip, one underhand, one reverse grip.</p>\n<p>Pull the weight up. At the highest point make a slight hollow back and pull the bar back. Hold 1 or 2 seconds that position. Go down, making sure the back is not bent. Once down you can either go back again as soon as the weights touch the floor, or make a pause, depending on the weight.</p>",
       "equipment": [
