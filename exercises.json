@@ -53,6 +53,7 @@
     },
     {
       "category": "stretching",
+      "description": "Hamstring stretch with legs split",
       "equipment": [
         "none"
       ],
@@ -68,6 +69,8 @@
       ],
       "secondary_muscles": [
         "calves"
+      ],
+      "video": "https://www.youtube.com/watch?v=h_yZV27H684"
       ]
     },
     {
