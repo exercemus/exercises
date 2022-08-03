@@ -46,10 +46,10 @@
         "abs"
       ],
       "secondary_muscles": [],
-      "video": "https://www.youtube.com/watch?v=wm47Swzn_98",
       "variations_on": [
         "sit-up"
-      ]
+      ],
+      "video": "https://www.youtube.com/watch?v=wm47Swzn_98"
     },
     {
       "category": "stretching",
@@ -1261,7 +1261,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -2831,7 +2836,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -2849,7 +2859,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -2867,7 +2882,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -2885,7 +2905,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "stretching",
@@ -4419,7 +4444,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -5080,7 +5110,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -12210,7 +12245,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -14122,7 +14162,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -14329,7 +14374,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
@@ -15022,7 +15072,12 @@
       "primary_muscles": [
         "calves"
       ],
-      "secondary_muscles": []
+      "secondary_muscles": [
+        "soleus"
+      ],
+      "variation_on": [
+        "calf raise"
+      ]
     },
     {
       "category": "strength",
