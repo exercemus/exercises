@@ -628,6 +628,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -1022,6 +1025,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -2413,6 +2419,9 @@
         "glutes",
         "hamstrings",
         "lower back"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -2980,6 +2989,9 @@
         "hamstrings",
         "lower back",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -3421,6 +3433,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -4043,6 +4058,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -4067,6 +4085,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -4326,6 +4347,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -7754,6 +7778,9 @@
       "secondary_muscles": [
         "glutes",
         "lower back"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -8530,6 +8557,9 @@
       "secondary_muscles": [
         "glutes",
         "hamstrings"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -10248,6 +10278,9 @@
         "hamstrings",
         "lower back",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -11835,6 +11868,9 @@
         "glutes",
         "hamstrings",
         "quads"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -11885,6 +11921,9 @@
         "lower back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -12181,6 +12220,9 @@
         "hamstrings",
         "lower back",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -12295,6 +12337,9 @@
         "calves",
         "glutes",
         "lower back"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -12316,6 +12361,9 @@
         "glutes",
         "lower back",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -14424,6 +14472,9 @@
       "secondary_muscles": [
         "glutes",
         "lower back"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -14544,6 +14595,9 @@
         "lower back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -16000,6 +16054,9 @@
       "secondary_muscles": [
         "glutes",
         "lower back"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -16021,6 +16078,9 @@
       "secondary_muscles": [
         "glutes",
         "lower back"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -16187,6 +16247,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -16213,6 +16276,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -16240,6 +16306,9 @@
         "middle back",
         "quads",
         "traps"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -16641,6 +16710,9 @@
       "secondary_muscles": [
         "glutes",
         "hamstrings"
+      ],
+      "variation_on": [
+        "deadlift"
       ]
     },
     {
@@ -17699,205 +17771,6 @@
     }
   ],
   "exercises_to_merge": [
-    {
-      "description": "<p>Stand firmly, with your feet slightly more than shoulder wide apart. Stand directly behind the bar where it should barely touch your shin, your feet pointing a bit out. Bend down with a straight back, the knees also pointing somewhat out. Grab the bar with a shoulder wide grip, one underhand, one reverse grip.</p>\n<p>Pull the weight up. At the highest point make a slight hollow back and pull the bar back. Hold 1 or 2 seconds that position. Go down, making sure the back is not bent. Once down you can either go back again as soon as the weights touch the floor, or make a pause, depending on the weight.</p>",
-      "equipment": [
-        "barbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Deadlifts",
-      "primary_muscles": [
-        "lats",
-        "quads"
-      ],
-      "secondary_muscles": [
-        "glutes"
-      ],
-      "variation_id": 3
-    },
-    {
-      "description": "<p>The execution of this exercise is very similar to the regular bent over rowing, only that the bar is fixed here.</p>\n<p>Grab the barbell with a wide grip (slightly more than shoulder wide) and lean forward. Your upper body is not quite parallel to the floor, but forms a slight angle. The chest's out during the whole exercise. Pull now the barbell with a fast movement towards your belly button, not further up. Go slowly down to the initial position. Don't swing with your body and keep your arms next to your body.</p>",
-      "equipment": [],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Rowing, T-bar",
-      "primary_muscles": [
-        "lats"
-      ],
-      "secondary_muscles": [
-        "shoulders",
-        "biceps",
-        "brachialis"
-      ],
-      "variation_id": 1
-    },
-    {
-      "description": "<p>Grab the pull up bar with a wide grip, the body is hanging freely. Keep your chest out and pull yourself up till your chin reaches the bar or it touches your neck, if you want to pull behind you. Go with a slow and controlled movement down, always keeping the chest out.</p>",
-      "equipment": [
-        "pull-up bar"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Pull-ups",
-      "primary_muscles": [
-        "lats"
-      ],
-      "secondary_muscles": [
-        "shoulders",
-        "biceps",
-        "traps"
-      ],
-      "variation_id": null
-    },
-    {
-      "description": "",
-      "equipment": [],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Rowing, Seated",
-      "primary_muscles": [
-        "lats"
-      ],
-      "secondary_muscles": [],
-      "variation_id": 1
-    },
-    {
-      "description": "<p>Grab the barbell with a wide grip (slightly more than shoulder wide) and lean forward. Your upper body is not quite parallel to the floor, but forms a slight angle. The chest's out during the whole exercise.</p>\n<p>Pull now the barbell with a fast movement towards your belly button, not further up. Go slowly down to the initial position. Don't swing with your body and keep your arms next to your body.</p>",
-      "equipment": [
-        "barbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Bent Over Rowing",
-      "primary_muscles": [
-        "lats"
-      ],
-      "secondary_muscles": [
-        "shoulders",
-        "biceps"
-      ],
-      "variation_id": 1
-    },
-    {
-      "description": "<p>The same as <em>regular</em> rowing, but holding a reversed grip (your palms pointing forwards):</p>\n<p>Grab the barbell with a wide grIp (slightly more than shoulder wide) and lean forward. Your upper body is not quite parallel to the floor, but forms a slight angle. The chest's out during the whole exercise.</p>\n<p>Pull now the barbell with a fast movement towards your belly button, not further up. Go slowly down to the initial position. Don't swing with your body and keep your arms next to your body.</p>",
-      "equipment": [
-        "barbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Bent Over Rowing Reverse",
-      "primary_muscles": [
-        "lats"
-      ],
-      "secondary_muscles": [
-        "shoulders",
-        "biceps"
-      ],
-      "variation_id": 1
-    },
-    {
-      "description": "<p>Make sure you have put the barbell at a height where you can comfortably take it out and put it back in. Take it out and make yourself ready:</p>\n<ul>\n<li>The bar is somewhat lower than your shoulders</li>\n<li>The feet are quite apart and point out</li>\n<li>The head is in your neck and looks up</li>\n<li>The chest is out</li>\n</ul>\n<p>Go now slowly down, till your thighs are parallel with the floor, not lower. The knees point outwards, your butt, out. Make a small pause of 1 second and with as much energy as you can, push the weight up. Make a pause of 2 seconds and repeat.</p>",
-      "equipment": [
-        "barbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Squats",
-      "primary_muscles": [
-        "quads"
-      ],
-      "secondary_muscles": [
-        "glutes"
-      ],
-      "variation_id": 12
-    },
-    {
-      "description": "<p>.</p>",
-      "equipment": [
-        "dumbbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Dumbbell Lunges Standing",
-      "primary_muscles": [
-        "quads"
-      ],
-      "secondary_muscles": [
-        "glutes"
-      ],
-      "variation_id": 13
-    },
-    {
-      "description": "<p>Take two dumbbells in your hands, stand straight, feet about shoulder wide. Take one long step so that the front knee is approximately forming a right angle. The back leg is streched, the knee is low but doesn't touch the ground. \"Complete\" the step by standing up and repeat the movement with the other leg.</p>",
-      "equipment": [
-        "dumbbell"
-      ],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Dumbbell Lunges Walking",
-      "primary_muscles": [
-        "quads"
-      ],
-      "secondary_muscles": [
-        "glutes"
-      ],
-      "variation_id": 13
-    },
-    {
-      "description": "<p>Sit on the machine and put your feet on the platform, a bit more than shoulder wide. The feet are turned outwards by a few degrees.</p>\n<p>Lower the weight so much, that the knees form a right angle. Push immediately the platform up again, without any pause. When in the lower position, the knees point a bit outwards and the movement should be always fluid.</p>",
-      "equipment": [],
-      "license": {
-        "full_name": "Creative Commons Attribution Share Alike 3",
-        "short_name": "CC-BY-SA 3",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-      },
-      "license_author": "wger.de",
-      "name": "Leg Presses (wide)",
-      "primary_muscles": [
-        "quads"
-      ],
-      "secondary_muscles": [
-        "glutes"
-      ],
-      "variation_id": 15
-    },
     {
       "description": "<p>The exercise is very similar to the wide leg press:</p>\n<p>Sit on the machine and put your feet on the platform so far apart\u00a0 that you could just put another foot in between them. The feet are parallel and point up.</p>\n<p>Lower the weight so much, that the knees form a right angle. Push immediately the platform up again, without any pause. When in the lower position, the knees point a bit outwards and the movement should be always fluid.</p>",
       "equipment": [],
