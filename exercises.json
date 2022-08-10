@@ -115,6 +115,7 @@
     },
     {
       "category": "stretching",
+      "description": "One leg adductor foam roll",
       "equipment": [
         "foam roll"
       ],
@@ -127,7 +128,11 @@
       "primary_muscles": [
         "adductors"
       ],
-      "secondary_muscles": []
+       "secondary_muscles": [],
+      "variations_on": [
+        "foam-roll"
+      ],
+      "video": "https://www.youtube.com/watch?v=h1xQabdHdes"
     },
     {
       "category": "stretching",
