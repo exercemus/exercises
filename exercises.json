@@ -96,6 +96,7 @@
     },
     {
       "category": "strength",
+      "description": "Rolling from a knee plank to extension",
       "equipment": [
         "other"
       ],
@@ -111,7 +112,8 @@
       ],
       "secondary_muscles": [
         "shoulders"
-      ]
+      ],
+      "video": "https://youtu.be/aEgyCi1J1qI?t=82"
     },
     {
       "category": "stretching",
