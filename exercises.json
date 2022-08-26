@@ -135,6 +135,7 @@
     },
     {
       "category": "stretching",
+      "description": "Groin Split Leg Stretch",
       "equipment": [
         "none"
       ],
@@ -149,6 +150,7 @@
         "adductors"
       ],
       "secondary_muscles": []
+      "video": "https://www.youtube.com/watch?v=ScGo0VV85qA"
     },
     {
       "category": "strength",
